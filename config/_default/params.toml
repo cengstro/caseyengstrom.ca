@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A data science blog by Julia Silge"
+description = "Personal website of Casey Engstrom"
 
 ############################
 ## Site Features
@@ -102,10 +102,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "sharon-mccutcheon-62vi3TG5EDg-unsplash_small.jpg"
+sharing_image = "gar19.11b_diverse1.JPG"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "juliasilge"
+twitter = "CaseyEngstrom"
 
 ############################
 ## Regional Settings

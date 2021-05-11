@@ -1,44 +1,48 @@
 ---
 authors:
 - admin
-bio: I'm an author, international keynote speaker, and real-world practitioner focusing on data analysis and machine learning practice. I love making beautiful charts and communicating about technical topics with diverse audiences.
-email: ""
+bio: Biologist and climber exploring the snow algae microbiome in the mountains
+email: "cengstro@sfu.ca"
 organizations:
-- name: RStudio PBC
-  url: "https://rstudio.com/"
-role: Data Scientist & Software Engineer
+- name: Simon Fraser University
+  url: https://www.sfu.ca/mbb
+role: PhD Candidate in Molecular Biology
 social:
-- icon: twitter
+- icon: envelope
+  icon_pack: fas
+  link: mailto:cengstro@sfu.ca
+- display:
+    header: true
+  icon: twitter
   icon_pack: fab
-  link: https://twitter.com/juliasilge
+  label: Follow me on Twitter
+  link: https://twitter.com/CaseyEngstrom
+- icon: instagram
+  icon_pack: fab
+  link: https://instagram.com/casey.engstrom
 - icon: github
   icon_pack: fab
-  link: https://github.com/juliasilge
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/juliasilge
-- icon: stack-overflow
-  icon_pack: fab
-  link: https://stackoverflow.com/users/5468471/julia-silge
+  link: https://github.com/cengstro
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/juliasilge/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-3671-836X
+  link: https://www.linkedin.com/in/casey-engstrom-1314667b/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=lQBVIkkAAAAJ
+  link: https://scholar.google.com/citations?user=aST1ItMAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6553-7883
 superuser: true
-title: Julia Silge
+title: Casey Engstrom
 ---
 
-My name is Julia Silge and I am a data scientist and software engineer at RStudio where I work on [open source modeling tools](https://www.tidymodels.org/). My last name is pronounced SILL-GHEE (two syllables, short `i`, hard `g`). I love making beautiful charts, the statistical programming language R, Jane Austen, black coffee, and red wine.
+I am a PhD student in [Lynne Quarmby's Lab](www.quarmby.ca) at Simon Fraser University Dept. Molecular Biology and Biochem. 
 
-I studied physics and astronomy, finishing my PhD in 2005. I worked in academia (teaching and doing research) and ed tech before moving into data science and discovering R. I am both an international speaker and a real-world practitioner focusing on data analysis and machine learning practice. I have written books with my collaborators about [text mining](http://amzn.to/2tZkmxG), [supervised machine learning for text](https://smltar.com/), and [modeling with tidy data principles](https://www.tmwr.org/) in R. You can find me on [Twitter](https://twitter.com/juliasilge) and [GitHub](https://github.com/juliasilge). 
+My PhD project focusses on understanding the snow algae microbiome at the micro and macro level. Under the microscope, we see a stunning diversity of shapes and colors of snow algae, but we still are not able to identify the majority of these. To resolve this I am using single-cell approaches to link morphology with genetics, to uncover the diversity in snow algae blooms and lay foundations for understanding their life history. At the planetary level, snow algae blooms cause massive pink blooms on snow, causing the snow to melt faster, but we still do not know how widespread these blooms are, where they occur, and whether they are increasing due to climage change. To address these questions I am using remote sensing and machine learning to automate detection of blooms, and map their spatio-temporal distribution. 
 
-I live in Salt Lake City, UT, with my husband, three kids, and two cats.
+Interests include microbial ecology, genomics, remote sensing, data science, statistics. Outside of research, I spend my time climbing and exploring the Coast Mountains near my home in Squamish, BC. 
 
-This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Bokeh circles photo by [Sharon McCutcheon](https://unsplash.com/photos/62vi3TG5EDg) on Unsplash.
 
-If my blog has helped you, [you can buy me a coffee on Ko-fi!](https://ko-fi.com/U7U4WG9B) 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/temporary_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
