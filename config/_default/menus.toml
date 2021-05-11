@@ -5,8 +5,8 @@
 
 
 [[main]]
-  name = "Blog"
-  url = "blog"
+  name = "Posts"
+  url = "post"
   weight = 10
 
 [[main]]
