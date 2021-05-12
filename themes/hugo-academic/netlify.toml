@@ -1,7 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL --themesDir ../../"
-  base    = "caseyengstrom.com"
-  publish = "caseyengstrom.com/public/"
+  base    = "caseyengstrom.netlify.app" # update to caseyengstrom.com in near future
+  publish = "caseyengstrom.netlify.app/public/" # update to caseyengstrom.com in near future
 
 [build.environment]
   HUGO_THEME = "repo"

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casey Engstrom</title>
-    <link>https://caseyengstrom.com/author/casey-engstrom/</link>
-      <atom:link href="https://caseyengstrom.com/author/casey-engstrom/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://caseyengstrom.netlify.app/author/casey-engstrom/</link>
+      <atom:link href="https://caseyengstrom.netlify.app/author/casey-engstrom/index.xml" rel="self" type="application/rss+xml" />
     <description>Casey Engstrom</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright>
     <image>
-      <url>https://caseyengstrom.com/author/casey-engstrom/avatar_hu27ac92db070cf97ffdfbd25f74bd189c_33285_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://caseyengstrom.netlify.app/author/casey-engstrom/avatar_hu27ac92db070cf97ffdfbd25f74bd189c_33285_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Casey Engstrom</title>
-      <link>https://caseyengstrom.com/author/casey-engstrom/</link>
+      <link>https://caseyengstrom.netlify.app/author/casey-engstrom/</link>
     </image>
     
   </channel>

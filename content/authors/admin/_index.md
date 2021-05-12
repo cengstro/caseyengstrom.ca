@@ -45,4 +45,3 @@ Interests include microbial ecology, genomics, remote sensing, data science, sta
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/temporary_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
