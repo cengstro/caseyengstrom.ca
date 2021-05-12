@@ -49,4 +49,4 @@ We can detect snow algae in satellite imagery using machine learning. To train t
 
 We will include your data in a list of classified points to train our algorithm to recognize snow algae blooms in satellite imagery. The results can be viewed at the Snow Algae Atlas (link).
 
-<!-- ![my-first-image](image1.jpg) -->
+![my-first-image](image.jpg)
