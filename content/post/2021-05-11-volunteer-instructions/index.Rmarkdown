@@ -33,7 +33,7 @@ Each time you are planning a hiking trip, follow these instructions to classify 
 1) Visit the [web app](https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth) and download waypoints.
     - Do this 1-3 days before your hike. (If you plan too far in advance, the satellite imagery will not be up to date.)
 2) Import waypoints into [Gaia GPS](https://gaiagps.com). 
-    - Share folder with casey.engstrom@gmail.com
+    - Share folder with [casey.engstrom (at) gmail.com](casey.engstrom@gmail.com)
 3) Hike to waypoints, collect data
     - Click waypoint, take photo, title as either "Algae" or "Other"
 4) Upon return, check that data is sync'd. 
