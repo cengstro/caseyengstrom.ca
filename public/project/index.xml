@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Casey Engstrom</title>
-    <link>https://caseyengstrom.netlify.app/project/</link>
-      <atom:link href="https://caseyengstrom.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://caseyengstrom.ca/project/</link>
+      <atom:link href="https://caseyengstrom.ca/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://caseyengstrom.netlify.app/img/gar19.11b_diverse1.JPG</url>
+      <url>https://caseyengstrom.ca/img/gar19.11b_diverse1.JPG</url>
       <title>Projects</title>
-      <link>https://caseyengstrom.netlify.app/project/</link>
+      <link>https://caseyengstrom.ca/project/</link>
     </image>
     
     <item>
       <title>Open Source Software</title>
-      <link>https://caseyengstrom.netlify.app/project/oss/</link>
+      <link>https://caseyengstrom.ca/project/oss/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://caseyengstrom.netlify.app/project/oss/</guid>
+      <guid>https://caseyengstrom.ca/project/oss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speaker</title>
-      <link>https://caseyengstrom.netlify.app/project/speaker/</link>
+      <link>https://caseyengstrom.ca/project/speaker/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://caseyengstrom.netlify.app/project/speaker/</guid>
+      <guid>https://caseyengstrom.ca/project/speaker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Author</title>
-      <link>https://caseyengstrom.netlify.app/project/author/</link>
+      <link>https://caseyengstrom.ca/project/author/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://caseyengstrom.netlify.app/project/author/</guid>
+      <guid>https://caseyengstrom.ca/project/author/</guid>
       <description></description>
     </item>
     

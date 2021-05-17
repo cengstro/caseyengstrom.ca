@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Casey Engstrom</title>
-    <link>https://caseyengstrom.netlify.app/categories/</link>
-      <atom:link href="https://caseyengstrom.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://caseyengstrom.ca/categories/</link>
+      <atom:link href="https://caseyengstrom.ca/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright>
     <image>
-      <url>https://caseyengstrom.netlify.app/img/gar19.11b_diverse1.JPG</url>
+      <url>https://caseyengstrom.ca/img/gar19.11b_diverse1.JPG</url>
       <title>Categories</title>
-      <link>https://caseyengstrom.netlify.app/categories/</link>
+      <link>https://caseyengstrom.ca/categories/</link>
     </image>
     
   </channel>

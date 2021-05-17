@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Casey Engstrom</title>
-    <link>https://caseyengstrom.netlify.app/authors/</link>
-      <atom:link href="https://caseyengstrom.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://caseyengstrom.ca/authors/</link>
+      <atom:link href="https://caseyengstrom.ca/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright>
     <image>
-      <url>https://caseyengstrom.netlify.app/img/gar19.11b_diverse1.JPG</url>
+      <url>https://caseyengstrom.ca/img/gar19.11b_diverse1.JPG</url>
       <title>Authors</title>
-      <link>https://caseyengstrom.netlify.app/authors/</link>
+      <link>https://caseyengstrom.ca/authors/</link>
     </image>
     
   </channel>
