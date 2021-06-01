@@ -23,9 +23,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/cengstro
-- icon: linkedin
+- icon: researchgate
   icon_pack: fab
-  link: https://www.linkedin.com/in/casey-engstrom-1314667b/
+  link: https://www.researchgate.net/profile/Casey-Engstrom
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=aST1ItMAAAAJ&hl=en
@@ -36,7 +36,7 @@ superuser: true
 title: Casey Engstrom
 ---
 
-I am a PhD student in [Lynne Quarmby's Lab](www.quarmby.ca) at Simon Fraser University Dept. Molecular Biology and Biochem. 
+I am a PhD student in [Lynne Quarmby's Lab](https://www.quarmby.ca) at [Simon Fraser University Dept. Molecular Biology and Biochemistry](https://www.sfu.ca/mbb). 
 
 My PhD project focusses on understanding the snow algae microbiome at the micro and macro level. Under the microscope, we see a stunning diversity of shapes and colors of snow algae, but we still are not able to identify the majority of these. To resolve this I am using single-cell approaches to link morphology with genetics, to uncover the diversity in snow algae blooms and lay foundations for understanding their life history. At the planetary level, snow algae blooms cause massive pink blooms on snow, causing the snow to melt faster, but we still do not know how widespread these blooms are, where they occur, and whether they are increasing due to climage change. To address these questions I am using remote sensing and machine learning to automate detection of blooms, and map their spatio-temporal distribution. 
 
