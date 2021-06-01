@@ -1,5 +1,5 @@
 ---
-title: Introducing Snow Algae Atlas Citizen Science
+title: Citizen Science to Map Snow Algae
 author: Casey Engstrom
 date: '2021-05-31'
 slug: intro-atlas
@@ -17,17 +17,25 @@ image:
 projects: []
 ---
 
-Snow algae are red-pigmented, single-celled algae that grow in melting summer snow. This red pigment darkens the snow surface and causes snow to melt faster. The algae also host a fascinating [microbiome](https://blog.alpineclubofcanada.ca/state-of-the-mountains/2020/4/14/watermelon-snow-a-microscopic-serengeti). Preliminary satellite analysis suggests the blooms occur nearly every summer, and can cover vast areas of glacier surfaces, but we still don't know how widespread these blooms are, or how much of an impact they have on snowmelt. 
+Although we typically think of snow as sterile and lifeless, in summer the snow surface is in fact teeming with life. The melting snow provides liquid water that supports blooms of microscopic algae, but to photosynthesize on the snow these algae are not green but instead color the snow brilliant hues of red, pink, and orange. The snow algae support a diverse [microbiome](https://blog.alpineclubofcanada.ca/state-of-the-mountains/2020/4/14/watermelon-snow-a-microscopic-serengeti), including microscopic grazers, parasitic fungi, and symbiotic bacteria. Fascinating in their own right, this microbiome is also important for it's role in the broader ecosystem: the algae "eat away" at the snow. The algae darkens the snow surface, absorbing more solar energy and melting pockets of snow around it like holes in Swiss cheese. 
 
-![s2sr](s2-vowell.png)
+![albedo-effect](albedo_effect.jpg)
 
-This summer, I am spearheading a citizen science project to ground validate predicted snow algae blooms. Using Google Earth Engine, I have an algorithm that (I hope) is reasonably accurate at distinguishing snow algae blooms from other stuff like dirt on snow. Hikers and mountaineers can help by visiting predicted points to see how accurate my classifier really is. 
+Snow algae could play a vital role in mountain ecosystems by regulating the speed of snow melt, like "ecosystem engineers" that control the water flow downstream. The timing of snowmelt impacts plant phenology in alpine meadows, and provides water throughout the summer for habitats along the river. Glacial runoff cools the water temperature for salmon, and transports nutrients that fuel the base of the oceanic food web. For humans, the summer snowpack supplies water for irrigation and reservoirs, and early meltout can tip the scales towards drought and wildfire. Snow is an excellent reflective surface, so loss of snow cover means more solar energy is absorbed, resulting in more global warming in a positive feedback loop.
 
-![bugaboo](vowell.png)
+We still don't know how widespread or frequent these blooms are, or whether they are increasing with climate change. As part of my PhD project I am using satellite imagery to map the distribution of snow algae blooms. I was shocked to see entire ranges with glaciers almost completely covered in pink snow. 
 
-The data will be used to evaluate classifier accuracy, and ultimately map the distribution of snow algae blooms world wide. Among other things, we want to know how much of an effect blooms have on glacial recession. Since the blooms rely on liquid meltwater, we hypothesize that with warmer summers the snow algae are expanding their range. 
+
+![Satellite image of pink snow on the Vowell Glacier, Bugaboos, 2020](s2-vowell.png)
+
+However, satellite images can be deceptive, and other things can also cause the snow to look pink: mineral dust, alpenglow, or ash from wildfires. Before we can make a snow algae map, we need to identify which pink snow is actually algae. I trained a random forest classifier to distinguish between snow cover types by visual interpretation, essentially my "best guess", but without ground validation we don't know how accurate this classifier really is. 
+
+
+![Pink Snow on the Vowell Glacier, Bugaboos, 2020](vowell.png)
+
+This summer, hikers and mountaineers can help validate our satellite map by visiting predicted snow algae locations. It works like this: a few days before your trip, check our [web app](https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth) to see if there are any active points in that region. In the field, visit points with the Gaia GPS app, take a photo, and classify the snow cover.
 
 ![catamount](cat4.jpg)
 
 
-If you like to spend time in the mountains, please consider [joining](https://forms.gle/gPvo9ijACeZASy47A) our citizen science project. It's pretty simple: download points in your region, and then visit the points and take a photo. You can see the [step-by-step instructions here](https://caseyengstrom.ca/blog/volunteer-protocol/). As a bonus, you get a free 1-year Premium membership with Gaia GPS.
+If you like to spend time in the mountains, please consider [joining](https://forms.gle/gPvo9ijACeZASy47A) our citizen science project. As incentive, volunteers get a free 1-year Gaia GPS Premium membership on signup! For more information, please see the [step-by-step instructions](https://caseyengstrom.ca/blog/volunteer-protocol/). 
