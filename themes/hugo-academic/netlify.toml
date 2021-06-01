@@ -1,7 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL --themesDir ../../"
-  base    = "caseyengstrom.ca" # update to caseyengstrom.com in near future
-  publish = "caseyengstrom.ca/public/" # update to caseyengstrom.com in near future
+  base    = "caseyengstrom.ca"
+  publish = "caseyengstrom.ca/public/"
 
 [build.environment]
   HUGO_THEME = "repo"

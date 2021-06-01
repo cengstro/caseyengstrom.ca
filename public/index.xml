@@ -13,27 +13,28 @@
     </image>
     
     <item>
-      <title>Introducing the Snow Algae Atlas project</title>
-      <link>https://caseyengstrom.ca/blog/intro-snow-algae-atlas/</link>
+      <title>Introducing Snow Algae Atlas Citizen Science</title>
+      <link>https://caseyengstrom.ca/blog/intro-atlas/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://caseyengstrom.ca/blog/intro-snow-algae-atlas/</guid>
+      <guid>https://caseyengstrom.ca/blog/intro-atlas/</guid>
       <description>&lt;p&gt;Snow algae are red-pigmented, single-celled algae that grow in melting summer snow. This red pigment darkens the snow surface and causes snow to melt faster. The algae also host a fascinating 
 &lt;a href=&#34;https://blog.alpineclubofcanada.ca/state-of-the-mountains/2020/4/14/watermelon-snow-a-microscopic-serengeti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;microbiome&lt;/a&gt;. Preliminary satellite analysis suggests the blooms occur nearly every summer, and can cover vast areas of glacier surfaces, but we still don&amp;rsquo;t know how widespread these blooms are, or how much of an impact they have on snowmelt.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;patagonia.png&#34; alt=&#34;patagonia&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;s2-vowell.png&#34; alt=&#34;s2sr&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This summer, I am spearheading a citizen science project to ground validate predicted snow algae blooms. Using Google Earth Engine, I have an algorithm that (I hope) is reasonably accurate at distinguishing snow algae blooms from other stuff like dirt on snow. Hikers and mountaineers can help by visiting predicted points to see how accurate my classifier really is.&lt;/p&gt;
-&lt;p&gt;(happy hiker)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vowell.png&#34; alt=&#34;bugaboo&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The data will be used to evaluate classifier accuracy, and ultimately map the distribution of snow algae blooms world wide. Among other things, we want to know how much of an effect blooms have on glacial recession. Since the blooms rely on liquid meltwater, we hypothesize that with warmer summers the snow algae are expanding their range.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cat4.jpg&#34; alt=&#34;catamount&#34;&gt;&lt;/p&gt;
 &lt;p&gt;If you like to spend time in the mountains, please consider 
 &lt;a href=&#34;https://forms.gle/gPvo9ijACeZASy47A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;joining&lt;/a&gt; our citizen science project. It&amp;rsquo;s pretty simple: download points in your region, and then visit the points and take a photo. You can see the 
-&lt;a href=&#34;https://caseyengstrom.ca/post/volunteer-instructions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;step-by-step instructions here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://caseyengstrom.ca/post/volunteer-instructions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;step-by-step instructions here&lt;/a&gt;. As a bonus, you get a free 1-year Premium membership with Gaia GPS.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Volunteer Protocol</title>
-      <link>https://caseyengstrom.ca/post/volunteer-protocol/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://caseyengstrom.ca/post/volunteer-protocol/</guid>
+      <title>Volunteer protocol</title>
+      <link>https://caseyengstrom.ca/blog/volunteer-protocol/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://caseyengstrom.ca/blog/volunteer-protocol/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;https://caseyengstrom.ca/post/intro-snow-algae-atlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snow Algae Atlas&lt;/a&gt; aims to map the distribution of snow algae worldwide using satellite imagery. Volunteers help us by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year 
 &lt;a href=&#34;https://www.gaiagps.com/premium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS Premium membership&lt;/a&gt;.&lt;/p&gt;
