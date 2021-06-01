@@ -17,12 +17,12 @@ image:
 projects: []
 ---
 
-The [Snow Algae Atlas](https://caseyengstrom.ca/blog/intro-snow-algae-atlas) aims to map the distribution of snow algae worldwide using satellite imagery. Volunteers help us by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year [Gaia GPS Premium membership](https://www.gaiagps.com/premium/). 
+The [Snow Algae Atlas](https://caseyengstrom.ca/blog/intro-atlas) aims to map the distribution of snow algae worldwide using satellite imagery. Volunteers help us by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year [Gaia GPS Premium membership](https://www.gaiagps.com/premium/). 
 
 ## Short Version
 
 1) [Download predicted snow algae points](https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth) from current imagery for your region
-2) [Import points into Gaia GPS](https://gaiagps.com) and share folder
+2) [Import points into Gaia GPS](https://www.gaiagps.com/) and share folder
 3) Hike to points and classify them as either "Algae" or "Other" 
 4) Sync data
 
@@ -52,9 +52,9 @@ If no images or points appear, don't give up! Try another region, or check back 
 
 #### 2. Import points into Gaia GPS
 
-*Visit the [Gaia GPS website](https://gaiagps.com). If this is your first time, click 'Sign Up For Free', and use the same email you used to [sign up](https://forms.gle/cWgyXnrmHoLzHuKh9) for the project. Note: it may take a few days after you sign up for us to activate your free [Gaia Premium](https://www.gaiagps.com/premium/) subscription.*
+*Visit the [Gaia GPS website](https://www.gaiagps.com/). If this is your first time, click 'Sign Up For Free', and use the same email you used to [sign up](https://forms.gle/cWgyXnrmHoLzHuKh9) for the project. Note: it may take a few days after you sign up for us to activate your free [Gaia Premium](https://www.gaiagps.com/premium/) subscription.*
 
-(2a) Once you've logged into the [Gaia GPS website](https://gaiagps.com), on the left menu click 'Import Data', then 'Select Files', then navigate to where you saved the points.  
+(2a) Once you've logged into the [Gaia GPS website](https://www.gaiagps.com/), on the left menu click 'Import Data', then 'Select Files', then navigate to where you saved the points.  
 
 ![import-button](gaia-web-main.png)
 
@@ -116,7 +116,7 @@ Be aware of mountain hazards, and practice [Leave No Trace](https://www.leavenot
 
 #### 4. Sync data upon return 
 
-Visit [gaiagps.com](gaiagps.com) and click a few points to ensure that your data was properly sync'd.
+Visit [gaiagps.com](https://www.gaiagps.com/) and click a few points to ensure that your data was properly sync'd.
 
 If not, check the sync settings in your phone app. See (2g) above.  
 

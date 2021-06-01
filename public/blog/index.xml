@@ -26,7 +26,7 @@
 &lt;p&gt;&lt;img src=&#34;cat4.jpg&#34; alt=&#34;catamount&#34;&gt;&lt;/p&gt;
 &lt;p&gt;If you like to spend time in the mountains, please consider 
 &lt;a href=&#34;https://forms.gle/gPvo9ijACeZASy47A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;joining&lt;/a&gt; our citizen science project. It&amp;rsquo;s pretty simple: download points in your region, and then visit the points and take a photo. You can see the 
-&lt;a href=&#34;https://caseyengstrom.ca/blog/volunteer-instructions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;step-by-step instructions here&lt;/a&gt;. As a bonus, you get a free 1-year Premium membership with Gaia GPS.&lt;/p&gt;
+&lt;a href=&#34;https://caseyengstrom.ca/blog/volunteer-protocol/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;step-by-step instructions here&lt;/a&gt;. As a bonus, you get a free 1-year Premium membership with Gaia GPS.&lt;/p&gt;
 </description>
     </item>
     
@@ -36,14 +36,14 @@
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>https://caseyengstrom.ca/blog/volunteer-protocol/</guid>
       <description>&lt;p&gt;The 
-&lt;a href=&#34;https://caseyengstrom.ca/blog/intro-snow-algae-atlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snow Algae Atlas&lt;/a&gt; aims to map the distribution of snow algae worldwide using satellite imagery. Volunteers help us by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year 
+&lt;a href=&#34;https://caseyengstrom.ca/blog/intro-atlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snow Algae Atlas&lt;/a&gt; aims to map the distribution of snow algae worldwide using satellite imagery. Volunteers help us by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year 
 &lt;a href=&#34;https://www.gaiagps.com/premium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS Premium membership&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;short-version&#34;&gt;Short Version&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download predicted snow algae points&lt;/a&gt; from current imagery for your region&lt;/li&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://gaiagps.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Import points into Gaia GPS&lt;/a&gt; and share folder&lt;/li&gt;
+&lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Import points into Gaia GPS&lt;/a&gt; and share folder&lt;/li&gt;
 &lt;li&gt;Hike to points and classify them as either &amp;ldquo;Algae&amp;rdquo; or &amp;ldquo;Other&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Sync data&lt;/li&gt;
 &lt;/ol&gt;
@@ -63,11 +63,11 @@
 &lt;p&gt;(1b) Click &amp;lsquo;Download points link&amp;rsquo; to download the points. A pop-up will ask you where to save them to.&lt;/p&gt;
 &lt;h4 id=&#34;2-import-points-into-gaia-gps&#34;&gt;2. Import points into Gaia GPS&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Visit the 
-&lt;a href=&#34;https://gaiagps.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS website&lt;/a&gt;. If this is your first time, click &amp;lsquo;Sign Up For Free&amp;rsquo;, and use the same email you used to 
+&lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS website&lt;/a&gt;. If this is your first time, click &amp;lsquo;Sign Up For Free&amp;rsquo;, and use the same email you used to 
 &lt;a href=&#34;https://forms.gle/cWgyXnrmHoLzHuKh9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up&lt;/a&gt; for the project. Note: it may take a few days after you sign up for us to activate your free 
 &lt;a href=&#34;https://www.gaiagps.com/premium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia Premium&lt;/a&gt; subscription.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;(2a) Once you&amp;rsquo;ve logged into the 
-&lt;a href=&#34;https://gaiagps.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS website&lt;/a&gt;, on the left menu click &amp;lsquo;Import Data&amp;rsquo;, then &amp;lsquo;Select Files&amp;rsquo;, then navigate to where you saved the points.&lt;/p&gt;
+&lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS website&lt;/a&gt;, on the left menu click &amp;lsquo;Import Data&amp;rsquo;, then &amp;lsquo;Select Files&amp;rsquo;, then navigate to where you saved the points.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;gaia-web-main.png&#34; alt=&#34;import-button&#34;&gt;&lt;/p&gt;
 &lt;p&gt;(2b) The points will pop up on the map. Click the green &amp;lsquo;Save __ items&amp;rsquo; button to upload the points to Gaia Cloud. (Note: you may get a &amp;lsquo;Large file import&amp;rsquo; warning message if your file contains many points. Click the box and click Import and proceed.)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;import-to-gaia.png&#34; alt=&#34;screenshot-import-to-gaia-button&#34;&gt;&lt;/p&gt;
@@ -100,7 +100,7 @@
 &lt;a href=&#34;https://www.leavenotrace.ca/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leave No Trace&lt;/a&gt;. Remember, we don&amp;rsquo;t expect you to visit all points, likely many points will not be accessible! Even just one point provides us with valuable data, and between 10 and 20 is reasonable for a day trip. Again, if possible visit an even number of red and blue points&amp;mdash;especially red points.&lt;/p&gt;
 &lt;h4 id=&#34;4-sync-data-upon-return&#34;&gt;4. Sync data upon return&lt;/h4&gt;
 &lt;p&gt;Visit 
-&lt;a href=&#34;gaiagps.com&#34;&gt;gaiagps.com&lt;/a&gt; and click a few points to ensure that your data was properly sync&amp;rsquo;d.&lt;/p&gt;
+&lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gaiagps.com&lt;/a&gt; and click a few points to ensure that your data was properly sync&amp;rsquo;d.&lt;/p&gt;
 &lt;p&gt;If not, check the sync settings in your phone app. See (2g) above.&lt;/p&gt;
 &lt;p&gt;Thank you for participating, be safe, and have fun!&lt;/p&gt;
 </description>

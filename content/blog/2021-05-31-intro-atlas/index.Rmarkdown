@@ -30,4 +30,4 @@ The data will be used to evaluate classifier accuracy, and ultimately map the di
 ![catamount](cat4.jpg)
 
 
-If you like to spend time in the mountains, please consider [joining](https://forms.gle/gPvo9ijACeZASy47A) our citizen science project. It's pretty simple: download points in your region, and then visit the points and take a photo. You can see the [step-by-step instructions here](https://caseyengstrom.ca/blog/volunteer-instructions/). As a bonus, you get a free 1-year Premium membership with Gaia GPS.
+If you like to spend time in the mountains, please consider [joining](https://forms.gle/gPvo9ijACeZASy47A) our citizen science project. It's pretty simple: download points in your region, and then visit the points and take a photo. You can see the [step-by-step instructions here](https://caseyengstrom.ca/blog/volunteer-protocol/). As a bonus, you get a free 1-year Premium membership with Gaia GPS.
