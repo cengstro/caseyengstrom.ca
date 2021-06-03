@@ -41,9 +41,7 @@
       <guid>https://caseyengstrom.ca/blog/volunteer-protocol/</guid>
       <description>&lt;p&gt;The 
 &lt;a href=&#34;https://caseyengstrom.ca/blog/intro-atlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snow Algae Atlas&lt;/a&gt; aims to map the distribution of snow algae by classifying satellite imagery. Volunteers help by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year 
-&lt;a href=&#34;https://www.gaiagps.com/premium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS Premium membership&lt;/a&gt;. Hiking for science!&lt;/p&gt;
-&lt;br&gt;
-&lt;h2 id=&#34;short-version&#34;&gt;Short Version&lt;/h2&gt;
+&lt;a href=&#34;https://www.gaiagps.com/premium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS Premium membership&lt;/a&gt; for hiking for science! Here is the protocol:&lt;/p&gt;
 &lt;ol start=&#34;0&#34;&gt;
 &lt;li&gt;
 &lt;a href=&#34;#signup&#34;&gt;Sign up&lt;/a&gt;&lt;/li&gt;
@@ -57,21 +55,22 @@
 &lt;a href=&#34;#sync&#34;&gt;Sync data&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;long-version&#34;&gt;Long Version&lt;/h2&gt;
 &lt;h3 id=&#34;signup&#34;&gt;&lt;em&gt;0. Sign up&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Participants must complete the 
 &lt;a href=&#34;https://form.jotform.com/211535914885059&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;liability waiver&lt;/a&gt;. You only need do this once. Once we have processed your form we can activate your Gaia Premium account.&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;download&#34;&gt;1. Download points&lt;/h3&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;download&#34;&gt;1. Download points&lt;/h1&gt;
 &lt;p&gt;A few days before your trip, visit the 
 &lt;a href=&#34;https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Point Finder&lt;/a&gt;. Do this within a day or three before you leave, so you get the most recent satellite imagery.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1A. Center the map&lt;/strong&gt; around the area you plan to visit, and click &amp;lsquo;Get Points&amp;rsquo;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;point-finder-main.png&#34; alt=&#34;app-layers&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This searches your region for recent, cloud-free satellite imagery. If any is found, it searches that image for red snow, and applies machine learning to predict whether the red snow is snow algae or something else (e.g. mineral dust on snow surface). Red points are predicted snow algae, blue points are predicted &amp;ldquo;something else&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;point-finder-dots.png&#34; alt=&#34;app-layers&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This may generate as many as several hundred points&amp;mdash;we don&amp;rsquo;t expect you to visit them all! Visit as many as safely and reasonably possible. Even just one point provides us with valuable data. Between 10 and 20 is reasonable for a day trip. Ideally, we would like you to visit an even number of red and blue points&amp;ndash;especially red points.&lt;/p&gt;
+&lt;p&gt;This may generate as many as several hundred points&amp;mdash;we don&amp;rsquo;t expect you to visit them all! Visit as many as safely and reasonably possible. Even just one point provides us with valuable data. Between 10 and 20 is reasonable for a day trip. Ideally, we would like you to visit an equal number of red and blue points, but this may not always be possible or practical. We expect the algorithm to find more blue points than red points, so if in doubt visit more red points!&lt;/p&gt;
 &lt;p&gt;If no images or points appear, it may be because there the recent imagery is too cloudy, or the algorithm isn&amp;rsquo;t picking up any red snow in that particular region. The satellite (Sentinel-2) flies over weekly, so you can try checking back in a few days, or try searching another area.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1B. Download the points to your local computer&lt;/strong&gt; by clicking the &amp;lsquo;Download points link&amp;rsquo;. A pop-up will ask you where to save.&lt;/p&gt;
-&lt;h3 id=&#34;import&#34;&gt;2. Import points into Gaia&lt;/h3&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;import&#34;&gt;2. Import points into Gaia&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Visit the 
 &lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS website&lt;/a&gt;. If this is your first time, click &amp;lsquo;Sign Up For Free&amp;rsquo;, and use the same email you used to 
 &lt;a href=&#34;https://forms.gle/cWgyXnrmHoLzHuKh9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sign up&lt;/a&gt; for the project. Note: it may take a few days after you sign up for us to activate your free 
@@ -88,10 +87,11 @@
 &lt;a href=&#34;mailto:casey.engstrom@gmail.com&#34;&gt;casey.engstrom (at) gmail.com&lt;/a&gt;, and click the &amp;lsquo;Share&amp;rsquo; button below. This step is important, otherwise we won&amp;rsquo;t be able to see the data you&amp;rsquo;ve collected.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;share-gaia-folder.png&#34; alt=&#34;share&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2F Check that the points have sync&amp;rsquo;d&lt;/strong&gt; on your Gaia GPS smartphone app. {#force-sync}&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;If this is your first time, download Gaia GPS from your smartphone app store, and log in using the same credentials you used for the Gaia GPS website.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;In the Gaia phone app, check the map to see that your points have loaded. If the points don&amp;rsquo;t appear, ensure that your data is set to auto-sync. In the bottom &amp;lsquo;Settings&amp;rsquo; menu, click &amp;lsquo;Account&amp;rsquo;, make sure the slider for Sync With GaiaCloud is green. Click the grey box where it says &amp;lsquo;Last Sync&amp;rsquo; to force a sync now.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If this is your first time, download Gaia GPS from your smartphone app store, and log in using the same credentials you used for the Gaia GPS website.&lt;/em&gt;&lt;br&gt;
+&lt;br&gt;
+In the Gaia phone app, check the map to see that your points have loaded. If the points don&amp;rsquo;t appear, ensure that your data is set to auto-sync. In the bottom &amp;lsquo;Settings&amp;rsquo; menu, click &amp;lsquo;Account&amp;rsquo;, make sure the slider for Sync With GaiaCloud is green. Click the grey box where it says &amp;lsquo;Last Sync&amp;rsquo; to force a sync now.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;sync-button.jpg&#34; alt=&#34;point-button&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;hike&#34;&gt;3. Hike to points&lt;/h3&gt;
+&lt;h1 id=&#34;hike&#34;&gt;3. Hike to points&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Please save/download this page onto your phone for reference in the field.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Visit points along your route using Gaia GPS blue-dot navigation. Exercise best judgement, do not visit a point if it feels unsafe for any reason! If possible, try and visit an equal number or red and blue points, but in many cases this will not be possible. Overall we expect there will be more red points than blue, so if in doubt try and visit more red points.&lt;/p&gt;
 &lt;p&gt;Upon arrival to a point, have a look at the snow within a ~5 m radius of where you stand. Is the snow visibly pink? Or does it just look dirty?&lt;/p&gt;
@@ -117,7 +117,8 @@
 &lt;p&gt;Repeat steps 3A - 3C to visit as many points as reasonably and safely possible. Ideally visit an even number of red and blue points, but do your best&amp;ndash;this is not always possible (nor is it essential, just an overall rough balance between red and blue points is what we&amp;rsquo;re going for).&lt;/p&gt;
 &lt;p&gt;Be aware of mountain hazards, and practice 
 &lt;a href=&#34;https://www.leavenotrace.ca/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leave No Trace&lt;/a&gt;. Remember, we don&amp;rsquo;t expect you to visit all points, likely many points will not be accessible! Even just one point provides us with valuable data, and between 10 and 20 is reasonable for a day trip. Overall, try and visit an equal number of red and blue points.&lt;/p&gt;
-&lt;h3 id=&#34;sync&#34;&gt;4. Sync data&lt;/h3&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;sync&#34;&gt;4. Sync data&lt;/h1&gt;
 &lt;p&gt;Upon return, visit 
 &lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gaiagps.com&lt;/a&gt; and click a few points to ensure that your data was properly sync&amp;rsquo;d. If not, check the sync settings in your phone app. See step 
 &lt;a href=&#34;#force-sync&#34;&gt;2F&lt;/a&gt;.&lt;/p&gt;

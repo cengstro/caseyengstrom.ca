@@ -4,3 +4,4 @@ My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 
 
 ## Todo:
 - html CV
+- instructions for .ca DNS renewal in readme

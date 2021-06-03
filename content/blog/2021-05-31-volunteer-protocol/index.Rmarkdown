@@ -17,11 +17,7 @@ image:
 projects: []
 ---
 
-The [Snow Algae Atlas](https://caseyengstrom.ca/blog/intro-atlas) aims to map the distribution of snow algae by classifying satellite imagery. Volunteers help by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year [Gaia GPS Premium membership](https://www.gaiagps.com/premium/). Hiking for science!  
-
-<br>
-
-## Short Version
+The [Snow Algae Atlas](https://caseyengstrom.ca/blog/intro-atlas) aims to map the distribution of snow algae by classifying satellite imagery. Volunteers help by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year [Gaia GPS Premium membership](https://www.gaiagps.com/premium/) for hiking for science! Here is the protocol:
 
 0) [Sign up](#signup) 
 1) [Download points](#download)
@@ -29,15 +25,16 @@ The [Snow Algae Atlas](https://caseyengstrom.ca/blog/intro-atlas) aims to map th
 3) [Hike to points](#hike) 
 4) [Sync data](#sync)
 
-<br>
 
-## Long Version
+<br>
 
 ### *0. Sign up* {#signup}
 
 *Participants must complete the [liability waiver](https://form.jotform.com/211535914885059). You only need do this once. Once we have processed your form we can activate your Gaia Premium account.*
 
-### 1. Download points {#download}
+<br>
+
+# 1. Download points {#download}
 
 A few days before your trip, visit the [Point Finder](https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth). Do this within a day or three before you leave, so you get the most recent satellite imagery. 
 
@@ -49,14 +46,15 @@ This searches your region for recent, cloud-free satellite imagery. If any is fo
 
 ![app-layers](point-finder-dots.png)
 
-This may generate as many as several hundred points---we don't expect you to visit them all! Visit as many as safely and reasonably possible. Even just one point provides us with valuable data. Between 10 and 20 is reasonable for a day trip. Ideally, we would like you to visit an even number of red and blue points--especially red points.
+This may generate as many as several hundred points---we don't expect you to visit them all! Visit as many as safely and reasonably possible. Even just one point provides us with valuable data. Between 10 and 20 is reasonable for a day trip. Ideally, we would like you to visit an equal number of red and blue points, but this may not always be possible or practical. We expect the algorithm to find more blue points than red points, so if in doubt visit more red points!
 
 If no images or points appear, it may be because there the recent imagery is too cloudy, or the algorithm isn't picking up any red snow in that particular region. The satellite (Sentinel-2) flies over weekly, so you can try checking back in a few days, or try searching another area.
 
 **1B. Download the points to your local computer** by clicking the 'Download points link'. A pop-up will ask you where to save.
 
+<br>
 
-### 2. Import points into Gaia {#import}
+# 2. Import points into Gaia {#import}
 
 *Visit the [Gaia GPS website](https://www.gaiagps.com/). If this is your first time, click 'Sign Up For Free', and use the same email you used to [sign up](https://forms.gle/cWgyXnrmHoLzHuKh9) for the project. Note: it may take a few days after you sign up for us to activate your free [Gaia Premium](https://www.gaiagps.com/premium/) subscription.*
 
@@ -82,13 +80,13 @@ If no images or points appear, it may be because there the recent imagery is too
 **2F Check that the points have sync'd** on your Gaia GPS smartphone app. {#force-sync}
 
 *If this is your first time, download Gaia GPS from your smartphone app store, and log in using the same credentials you used for the Gaia GPS website.*  
-
+<br>
 In the Gaia phone app, check the map to see that your points have loaded. If the points don't appear, ensure that your data is set to auto-sync. In the bottom 'Settings' menu, click 'Account', make sure the slider for Sync With GaiaCloud is green. Click the grey box where it says 'Last Sync' to force a sync now. 
 
 
 ![point-button](sync-button.jpg)
 
-### 3. Hike to points {#hike}
+# 3. Hike to points {#hike}
 
 *Please save/download this page onto your phone for reference in the field.*
 
@@ -128,7 +126,9 @@ Repeat steps 3A - 3C to visit as many points as reasonably and safely possible. 
 
 Be aware of mountain hazards, and practice [Leave No Trace](https://www.leavenotrace.ca/home). Remember, we don't expect you to visit all points, likely many points will not be accessible! Even just one point provides us with valuable data, and between 10 and 20 is reasonable for a day trip. Overall, try and visit an equal number of red and blue points. 
 
-### 4. Sync data {#sync}
+<br>
+
+# 4. Sync data {#sync}
 
 Upon return, visit [gaiagps.com](https://www.gaiagps.com/) and click a few points to ensure that your data was properly sync'd. If not, check the sync settings in your phone app. See step [2F](#force-sync).  
 
