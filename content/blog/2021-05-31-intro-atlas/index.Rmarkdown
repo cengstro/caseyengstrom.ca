@@ -17,25 +17,24 @@ image:
 projects: []
 ---
 
-Although we typically think of snow as sterile and lifeless, in summer the snow surface is in fact teeming with life. The melting snow provides liquid water that supports blooms of single-celled algae, which feed a diverse [microbiome](https://blog.alpineclubofcanada.ca/state-of-the-mountains/2020/4/14/watermelon-snow-a-microscopic-serengeti), including microscopic grazers such as tardigrades, parasitic fungi, and symbiotic bacteria. Fascinating in their own right, this microbiome is also important for it's role in the broader ecosystem: the algae "eat away" at the snow. To survive on the snow the algae produce red pigments, which darken the snow surface to melt pockets of snow like holes in Swiss cheese. 
+Although we typically think of snow as sterile and lifeless, in summer the snow surface is in fact teeming with life. The melting snow provides liquid water that supports pink blooms of single-celled algae called 'watermelon snow', which feed a diverse [microbiome](https://blog.alpineclubofcanada.ca/state-of-the-mountains/2020/4/14/watermelon-snow-a-microscopic-serengeti) of microscopic grazers, parasitic fungi, and symbiotic bacteria. Fascinating in its own right, this microbiome is also important for its role in the broader ecosystem: the algae "eat away" at the snow. The red algae darken the snow surface, melting away pockets of snow like holes in Swiss cheese. 
 
 ![albedo-effect](albedo_effect.jpg)
 
-Snow algae could play a vital role in mountain ecosystems by increasing snow melt. The timing and release of snowmelt impacts plant phenology in alpine meadows, and provides water throughout the summer for habitats along the river. Glacial runoff cools the water temperature for salmon, and transports nutrients that fuel the base of the oceanic food web. For humans, the summer snowpack supplies water for irrigation and reservoirs, and early meltout can tip the scales towards drought and wildfire. Snow is an excellent reflective surface, so loss of snow cover means more solar energy is absorbed, resulting in more global warming in a positive feedback loop.
+By regulating snow melt, snow algae could play a vital role in mountain ecosystems. The timing and release of snowmelt impacts plant phenology in alpine meadows, and provides water throughout the summer for downstream habitats. Among other things glacial runoff cools the water temperature for salmon, and transports nutrients that fertilize oceanic plankton. Summer snow reservoirs are also an important source of water for human irrigation and drinking water---an early snow meltout can tip the scales towards drought and wildfire. Snow is an excellent reflective surface, so loss of snow cover means more solar energy absorbed---this is a big deal for our climate.
 
-We still don't know how widespread or frequent these blooms are, or whether they are increasing with climate change. As part of my PhD project I am using satellite imagery to map the distribution of snow algae blooms. I was shocked to see entire ranges with glaciers almost completely covered in pink snow. 
+We still don't know how widespread or frequent these blooms are, or whether they are increasing with climate change. Here in British Columbia, we see entire glaciers almost completely covered in pink snow. The pink snow tends to occur at elevations in the 'Goldilocks zone': too low, and there is no snow in summer, too high, and the snow remains frozen. 
 
 
 ![Satellite image of pink snow on the Vowell Glacier, Bugaboos, 2020](s2-vowell.png)
 
-However, satellite images can be deceptive, and other things can also cause the snow to look pink: mineral dust, alpenglow, or ash from wildfires. Before we can make a snow algae map, we need to identify which pink snow is actually algae. I trained a random forest classifier to distinguish between snow cover types by visual interpretation, essentially my "best guess", but without ground validation we don't know how accurate this classifier really is. 
+However, other things can also cause the snow to look pink in satellite images: for example mineral dust, or ash from wildfires. We need to know which pink snow is actually algae. I made a classifier to distinguish between Algae and Other types of pink snow (a random forest classifier, with training data based on visual interpretation of satellite images), but without ground validation we don't know how accurate this classifier really is. 
 
 
 ![Pink Snow on the Vowell Glacier, Bugaboos, 2020](vowell.png)
 
-This summer, hikers and mountaineers can help validate our satellite map by visiting predicted snow algae locations. It works like this: a few days before your trip, check our [web app](https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth) to see if there are any active points in that region. In the field, visit points with the Gaia GPS app, take a photo, and classify the snow cover.
+This summer, hikers and mountaineers can help us ground validate our snow algae satellite map by visiting predicted Algae and Other locations. Here's how it works: a few days before your trip, check the [web app](https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth) for any predicted points in your region. In the field, navigate to those points with the Gaia GPS app and classify whether or not the point is predicted correctly.
 
 ![catamount](cat4.jpg)
 
-
-If you like to spend time in the mountains, please consider [joining](https://forms.gle/gPvo9ijACeZASy47A) our citizen science project. As incentive, volunteers get a free 1-year Gaia GPS Premium membership on signup! For more information, please see the [step-by-step instructions](https://caseyengstrom.ca/blog/volunteer-protocol/). 
+If you like to spend time in the mountains, please consider [signing up](https://form.jotform.com/211535914885059) to participate in our citizen science project. Participants recieve a free 1-year Gaia GPS Premium membership on signup! For more information, please see the [step-by-step instructions](https://caseyengstrom.ca/blog/volunteer-protocol/). 

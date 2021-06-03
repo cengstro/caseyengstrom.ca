@@ -38,9 +38,9 @@ title: Casey Engstrom
 
 I am a PhD student in [Lynne Quarmby's Lab](https://www.quarmby.ca) at [Simon Fraser University Dept. Molecular Biology and Biochemistry](https://www.sfu.ca/mbb).
 
-My research focusses on understanding the snow algae microbiome at both the macro and micro scale. Snow algae blooms color the snow pink and cause the snow to melt faster. We still do not know how widespread these blooms are, where they occur, and whether they are increasing due to climage change. To address these questions I am using remote sensing to map the spatio-temporal distribution, both to better understand their biogeography and quanitfy their effect on albedo. When we look at red snow wnder the microscope, we see a stunning diversity of shapes and colors. To determine whether these cells are distinct species, or different life stages of the same species I am using single-cell sequencing to explore microbiome diversity.
+My research focusses on understanding the snow algae microbiome at both the macro- and micro- level. Snow algae blooms color the snow pink and cause the snow to melt faster, but we still do not know how widespread they are and whether they are increasing with to climage change. I am using remote sensing to track snow algae--both spatially and temporally-- to understand their biogeography and quantify their effect on snowmelt. Under the microscope, snow algae have a stunning diversity of shapes and colors. To determine which these cells are distinct species verses life stages of the same species I am using single-cell sequencing to explore microbiome diversity.
 
-Broadly, my research interests include microbial ecology, genomics, remote sensing, data science, and statistics. Outside of research, I spend my time climbing and exploring the Coast Mountains near my home in Squamish, BC. 
+Broadly, my research interests include microbial ecology, genomics, remote sensing, data science, and statistics. I enjoy climbing and exploring the Coast Mountains near my home in Squamish, BC. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/temporary_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
