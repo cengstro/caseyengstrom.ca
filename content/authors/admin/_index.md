@@ -43,5 +43,5 @@ My research focusses on understanding the snow algae microbiome at both the macr
 Broadly, my research interests include microbial ecology, genomics, remote sensing, data science, and statistics. I enjoy climbing and exploring the Coast Mountains near my home in Squamish, BC. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/temporary_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/cv01.pdf" "newtab" >}}CV{{< /staticref >}}.
 
