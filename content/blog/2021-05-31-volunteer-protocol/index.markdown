@@ -96,11 +96,11 @@ Upon arrival to a point, have a look at the snow within a ~5 m radius of where y
 
 ![algae-trees](garibaldi.jpg)
 
-^^definitely snow algae. 
+^^definitely Algae. 
 
 ![dirt-v-algae](dirt-v-snow.jpg)
 
-^^That's dirt. Although you can see some pink algae in the background--but that's outside of the 5 metre radius, so I would classify this point as Dirt. 
+^^that's Dirt. Although you can see some pink algae in the background--but that's outside of the 5 metre radius, so I would classify this point as Dirt. 
 
 **3A Take photo.** Click the red/blue pin, then click the the little green (i) button to edit the point. Use camera button to enter photography mode. Take a photo that you think is representative of the nearby snow surface (see above for examples).
 
