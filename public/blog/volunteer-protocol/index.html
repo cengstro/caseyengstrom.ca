@@ -569,13 +569,13 @@
 <h1 id="download">1. Download points</h1>
 <p>A few days before your trip, visit the 
 <a href="https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth" target="_blank" rel="noopener">Point Finder</a>. Do this within a day or three before you leave, so you get the most recent satellite imagery.</p>
-<p><strong>1A. Center the map</strong> around the area you plan to visit, and click &lsquo;Get Points&rsquo;.</p>
+<p><strong>1A. Generate points.</strong> Use the map or searchbox to center the map around the area you plan to visit, and click the &lsquo;Get Points&rsquo; button on the right panel.</p>
 <p><img src="point-finder-main.png" alt="app-layers"></p>
 <p>This searches your region for recent, cloud-free satellite imagery. If any is found, it searches that image for red snow, and applies machine learning to predict whether the red snow is snow algae or something else (e.g. mineral dust on snow surface). Red points are predicted snow algae, blue points are predicted &ldquo;something else&rdquo;.</p>
 <p><img src="point-finder-dots.png" alt="app-layers"></p>
 <p>This may generate as many as several hundred points&mdash;we don&rsquo;t expect you to visit them all! Visit as many as safely and reasonably possible. Even just one point provides us with valuable data. Between 10 and 20 is reasonable for a day trip. Ideally, we would like you to visit an equal number of red and blue points, but this may not always be possible or practical. We expect the algorithm to find more blue points than red points, so if in doubt visit more red points!</p>
 <p>If no images or points appear, it may be because there the recent imagery is too cloudy, or the algorithm isn&rsquo;t picking up any red snow in that particular region. The satellite (Sentinel-2) flies over weekly, so you can try checking back in a few days, or try searching another area.</p>
-<p><strong>1B. Download the points to your local computer</strong> by clicking the &lsquo;Download points link&rsquo;. A pop-up will ask you where to save.</p>
+<p><strong>1B. Download the points</strong> by clicking the &lsquo;Download points link&rsquo;. A pop-up will ask you where to save.</p>
 <br>
 <h1 id="import">2. Import points into Gaia</h1>
 <p><em>Visit the 
@@ -593,10 +593,9 @@
 <p><strong>2E Share the points</strong> by scrolling down to the &lsquo;Share This Folder&rsquo; options on the right panel. Enter my email 
 <a href="mailto:casey.engstrom@gmail.com">casey.engstrom (at) gmail.com</a>, and click the &lsquo;Share&rsquo; button below. This step is important, otherwise we won&rsquo;t be able to see the data you&rsquo;ve collected.</p>
 <p><img src="share-gaia-folder.png" alt="share"></p>
-<p><strong>2F Check that the points have sync&rsquo;d</strong> on your Gaia GPS smartphone app. {#force-sync}</p>
-<p><em>If this is your first time, download Gaia GPS from your smartphone app store, and log in using the same credentials you used for the Gaia GPS website.</em><br>
-<br>
-In the Gaia phone app, check the map to see that your points have loaded. If the points don&rsquo;t appear, ensure that your data is set to auto-sync. In the bottom &lsquo;Settings&rsquo; menu, click &lsquo;Account&rsquo;, make sure the slider for Sync With GaiaCloud is green. Click the grey box where it says &lsquo;Last Sync&rsquo; to force a sync now.</p>
+<h4 id="force-sync">2F Check that the points have sync&rsquo;d to your phone</h4>
+<p><em>If this is your first time, download Gaia GPS from your smartphone app store, and log in using the same credentials you used for the Gaia GPS website.</em></p>
+<p>In the Gaia phone app, check the map to see that your points have loaded. If the points don&rsquo;t appear, ensure that your data is set to auto-sync. In the bottom &lsquo;Settings&rsquo; menu, click &lsquo;Account&rsquo;, make sure the slider for Sync With GaiaCloud is green. Click the grey box where it says &lsquo;Last Sync&rsquo; to force a sync now.</p>
 <p><img src="sync-button.jpg" alt="point-button"></p>
 <h1 id="hike">3. Hike to points</h1>
 <p><em>Please save/download this page onto your phone for reference in the field.</em></p>
@@ -605,7 +604,7 @@ In the Gaia phone app, check the map to see that your points have loaded. If the
 <p><img src="garibaldi.jpg" alt="algae-trees"></p>
 <p>^^definitely snow algae.</p>
 <p><img src="dirt-v-snow.jpg" alt="dirt-v-algae"></p>
-<p>^^That&rsquo;s dirt. Although you can see some pink algae in the background&ndash;but that would be outside of the 5 metre radius, so I would classify this point as Dirt.</p>
+<p>^^That&rsquo;s dirt. Although you can see some pink algae in the background&ndash;but that&rsquo;s outside of the 5 metre radius, so I would classify this point as Dirt.</p>
 <p><strong>3A Take photo.</strong> Click the red/blue pin, then click the the little green (i) button to edit the point. Use camera button to enter photography mode. Take a photo that you think is representative of the nearby snow surface (see above for examples).</p>
 <p><img src="photo-button.jpg" alt="take-photo-icon"></p>
 <p><strong>3B Title the point.</strong> Automatically after the photo is selected, a pop-up will ask you to Title the photo. Please title the photo one of the following:</p>
@@ -628,7 +627,7 @@ In the Gaia phone app, check the map to see that your points have loaded. If the
 <h1 id="sync">4. Sync data</h1>
 <p>Upon return, visit 
 <a href="https://www.gaiagps.com/" target="_blank" rel="noopener">gaiagps.com</a> and click a few points to ensure that your data was properly sync&rsquo;d. If not, check the sync settings in your phone app. See step 
-<a href="#force-sync">2F</a>.</p>
+<a href="#hike">2F</a>.</p>
 <p>Thank you for participating, be safe, and have fun!</p>
 
     </div>

@@ -38,7 +38,7 @@ The [Snow Algae Atlas](https://caseyengstrom.ca/blog/intro-atlas) aims to map th
 
 A few days before your trip, visit the [Point Finder](https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth). Do this within a day or three before you leave, so you get the most recent satellite imagery. 
 
-**1A. Center the map** around the area you plan to visit, and click 'Get Points'.
+**1A. Generate points.** Use the map or searchbox to center the map around the area you plan to visit, and click the 'Get Points' button on the right panel.
    
 ![app-layers](point-finder-main.png)
 
@@ -50,7 +50,7 @@ This may generate as many as several hundred points---we don't expect you to vis
 
 If no images or points appear, it may be because there the recent imagery is too cloudy, or the algorithm isn't picking up any red snow in that particular region. The satellite (Sentinel-2) flies over weekly, so you can try checking back in a few days, or try searching another area.
 
-**1B. Download the points to your local computer** by clicking the 'Download points link'. A pop-up will ask you where to save.
+**1B. Download the points** by clicking the 'Download points link'. A pop-up will ask you where to save.
 
 <br>
 
@@ -77,10 +77,10 @@ If no images or points appear, it may be because there the recent imagery is too
 
 ![share](share-gaia-folder.png)  
 
-**2F Check that the points have sync'd** on your Gaia GPS smartphone app. {#force-sync}
+#### 2F Check that the points have sync'd to your phone {#force-sync}
 
 *If this is your first time, download Gaia GPS from your smartphone app store, and log in using the same credentials you used for the Gaia GPS website.*  
-<br>
+
 In the Gaia phone app, check the map to see that your points have loaded. If the points don't appear, ensure that your data is set to auto-sync. In the bottom 'Settings' menu, click 'Account', make sure the slider for Sync With GaiaCloud is green. Click the grey box where it says 'Last Sync' to force a sync now. 
 
 
@@ -100,7 +100,7 @@ Upon arrival to a point, have a look at the snow within a ~5 m radius of where y
 
 ![dirt-v-algae](dirt-v-snow.jpg)
 
-^^That's dirt. Although you can see some pink algae in the background--but that would be outside of the 5 metre radius, so I would classify this point as Dirt. 
+^^That's dirt. Although you can see some pink algae in the background--but that's outside of the 5 metre radius, so I would classify this point as Dirt. 
 
 **3A Take photo.** Click the red/blue pin, then click the the little green (i) button to edit the point. Use camera button to enter photography mode. Take a photo that you think is representative of the nearby snow surface (see above for examples).
 
@@ -130,6 +130,6 @@ Be aware of mountain hazards, and practice [Leave No Trace](https://www.leavenot
 
 # 4. Sync data {#sync}
 
-Upon return, visit [gaiagps.com](https://www.gaiagps.com/) and click a few points to ensure that your data was properly sync'd. If not, check the sync settings in your phone app. See step [2F](#force-sync).  
+Upon return, visit [gaiagps.com](https://www.gaiagps.com/) and click a few points to ensure that your data was properly sync'd. If not, check the sync settings in your phone app. See step [2F](#hike).  
 
 Thank you for participating, be safe, and have fun!
