@@ -4,9 +4,10 @@ author: Casey Engstrom
 date: '2021-05-31'
 slug: intro-atlas
 categories: []
-tags: []
+tags: [snow algae, community science, citizen science, volunteer, watermelon snow, satellite, ground validation, Quarmby Lab, Simon Fraser University, British Columbia]
 subtitle: ''
-summary: ''
+summary: 'Snow algae atlas project overview and motivation, introduction to community citizen science project to map snow algae and ground validate satellite imagery'
+description: 'Snow algae atlas project overview and motivation, introduction to community citizen science project to map snow algae and ground validate satellite imagery'
 authors: []
 lastmod: '2021-05-31T16:58:32-07:00'
 featured: no

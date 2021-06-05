@@ -4,9 +4,10 @@ author: Casey Engstrom
 date: '2021-05-31'
 slug: volunteer-protocol
 categories: []
-tags: []
+tags: [snow algae, community science, citizen science, protocol, volunteer, watermelon snow, satellite, ground validation, Quarmby Lab, Simon Fraser University, British Columbia]
 subtitle: ''
-summary: ''
+summary: 'Community citizen science protocol to map snow algae. Detailed step-by-step instructions to ground validate satellite-predicted points for participants'
+description: 'Community citizen science protocol to map snow algae. Detailed step-by-step instructions to ground validate satellite-predicted points for participants'
 authors: []
 lastmod: '2021-05-31T18:50:03-07:00'
 featured: no
@@ -14,7 +15,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: []
+projects: [community-science-satellite-validation]
 ---
 
 The [Snow Algae Atlas](https://caseyengstrom.ca/blog/intro-atlas) aims to map the distribution of snow algae by classifying satellite imagery. Volunteers help by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year [Gaia GPS Premium membership](https://www.gaiagps.com/premium/) for hiking for science! Here is the protocol:

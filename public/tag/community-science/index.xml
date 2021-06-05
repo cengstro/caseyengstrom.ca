@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community science | Casey Engstrom</title>
+    <link>https://caseyengstrom.ca/tag/community-science/</link>
+      <atom:link href="https://caseyengstrom.ca/tag/community-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>community science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright><lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://caseyengstrom.ca/img/gar19.11b_diverse1.JPG</url>
+      <title>community science</title>
+      <link>https://caseyengstrom.ca/tag/community-science/</link>
+    </image>
+    
+    <item>
+      <title>Snow Algae Atlas Project Overview</title>
+      <link>https://caseyengstrom.ca/blog/intro-atlas/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://caseyengstrom.ca/blog/intro-atlas/</guid>
+      <description>&lt;p&gt;Although we typically think of snow as sterile and lifeless, in summer the snow surface is in fact teeming with life. The melting snow provides liquid water that supports pink blooms of single-celled algae called &amp;lsquo;watermelon snow&amp;rsquo;, which feed a diverse 
+&lt;a href=&#34;https://blog.alpineclubofcanada.ca/state-of-the-mountains/2020/4/14/watermelon-snow-a-microscopic-serengeti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;microbiome&lt;/a&gt; of microscopic grazers, parasitic fungi, and symbiotic bacteria. Fascinating in its own right, this microbiome is also important for its role in the broader ecosystem: the algae &amp;ldquo;eat away&amp;rdquo; at the snow. The red algae darken the snow surface, melting away pockets of snow like holes in Swiss cheese.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;albedo_effect.jpg&#34; alt=&#34;albedo-effect&#34;&gt;&lt;/p&gt;
+&lt;p&gt;By regulating snow melt, snow algae could play a vital role in mountain ecosystems. The timing and release of snowmelt impacts plant phenology in alpine meadows, and provides water throughout the summer for downstream habitats. Among other things glacial runoff cools the water temperature for salmon, and transports nutrients that fertilize oceanic plankton. Summer snow reservoirs are also an important source of water for human irrigation and drinking water&amp;mdash;an early snow meltout can tip the scales towards drought and wildfire. Snow is an excellent reflective surface, so loss of snow cover means more solar energy absorbed&amp;mdash;this is a big deal for our climate.&lt;/p&gt;
+&lt;p&gt;We still don&amp;rsquo;t know how widespread or frequent these blooms are, or whether they are increasing with climate change. Here in British Columbia, we see entire glaciers almost completely covered in pink snow. The pink snow tends to occur at elevations in the &amp;lsquo;Goldilocks zone&amp;rsquo;: too low, and there is no snow in summer, too high, and the snow remains frozen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;s2-vowell.png&#34; alt=&#34;Satellite image of pink snow on the Vowell Glacier, Bugaboos, 2020&#34;&gt;&lt;/p&gt;
+&lt;p&gt;However, other things can also cause the snow to look pink in satellite images: for example mineral dust, or ash from wildfires. We need to know which pink snow is actually algae. I made a classifier to distinguish between Algae and Other types of pink snow (a random forest classifier, with training data based on visual interpretation of satellite images), but without ground validation we don&amp;rsquo;t know how accurate this classifier really is.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;vowell.png&#34; alt=&#34;Pink Snow on the Vowell Glacier, Bugaboos, 2020&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This summer, hikers and mountaineers can help us ground validate our snow algae satellite map by visiting predicted Algae and Other locations. Here&amp;rsquo;s how it works: a few days before your trip, check the 
+&lt;a href=&#34;https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web app&lt;/a&gt; for any predicted points in your region. In the field, navigate to those points with the Gaia GPS app and classify whether or not the point is predicted correctly.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cat4.jpg&#34; alt=&#34;catamount&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you like to spend time in the mountains, please consider 
+&lt;a href=&#34;https://form.jotform.com/211555732971055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;signing up&lt;/a&gt; to participate in our citizen science project. Participants recieve a free 1-year Gaia GPS Premium membership on signup! For more information, please see the 
+&lt;a href=&#34;https://caseyengstrom.ca/blog/volunteer-protocol/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;step-by-step instructions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are not collecting samples for the Snow Algae Atlas project, just observations. However, our colleagues at Western Washington University are accepting samples through the 
+&lt;a href=&#34;https://wp.wwu.edu/livingsnowproject/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Living Snow Project&lt;/a&gt;, please sign up on their website to request a sampling kit. Classifying points and collecting samples on the same trip is highly encouraged!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Snow Algae Citizen Science Volunteer Protocol</title>
+      <link>https://caseyengstrom.ca/blog/volunteer-protocol/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://caseyengstrom.ca/blog/volunteer-protocol/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://caseyengstrom.ca/blog/intro-atlas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snow Algae Atlas&lt;/a&gt; aims to map the distribution of snow algae by classifying satellite imagery. Volunteers help by hiking to predicted snow algae points to see whether our predictions are correct. Volunteers get a free 1-year 
+&lt;a href=&#34;https://www.gaiagps.com/premium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS Premium membership&lt;/a&gt; for hiking for science! Here is the protocol:&lt;/p&gt;
+&lt;ol start=&#34;0&#34;&gt;
+&lt;li&gt;
+&lt;a href=&#34;#signup&#34;&gt;Sign up&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#download&#34;&gt;Download points&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#import&#34;&gt;Import points to Gaia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#hike&#34;&gt;Hike to points&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#sync&#34;&gt;Sync data&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+&lt;h3 id=&#34;signup&#34;&gt;&lt;em&gt;0. Sign up&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Participants must complete the 
+&lt;a href=&#34;https://form.jotform.com/211555732971055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;liability waiver&lt;/a&gt;. You only need do this once. Once we have processed your form we can activate your Gaia Premium account.&lt;/em&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;download&#34;&gt;1. Download points&lt;/h1&gt;
+&lt;p&gt;A few days before your trip, visit the 
+&lt;a href=&#34;https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Point Finder&lt;/a&gt;. Do this within a day or three before you leave, so you get the most recent satellite imagery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1A. Generate points.&lt;/strong&gt; Use the map or searchbox to center the map around the area you plan to visit, and click the &amp;lsquo;Get Points&amp;rsquo; button on the right panel.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;point-finder-main.png&#34; alt=&#34;app-layers&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This searches your region for recent, cloud-free satellite imagery. If any is found, it searches that image for red snow, and applies machine learning to predict whether the red snow is snow algae or something else (e.g. mineral dust on snow surface). Red points are predicted snow algae, blue points are predicted &amp;ldquo;something else&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;point-finder-dots.png&#34; alt=&#34;app-layers&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This may generate as many as several hundred points&amp;mdash;we don&amp;rsquo;t expect you to visit them all! Visit as many as safely and reasonably possible. Even just one point provides us with valuable data. Between 10 and 20 is reasonable for a day trip. Ideally, we would like you to visit an equal number of red and blue points, but this may not always be possible or practical. We expect the algorithm to find more blue points than red points, so if in doubt visit more red points!&lt;/p&gt;
+&lt;p&gt;If no images or points appear, it may be because there the recent imagery is too cloudy, or the algorithm isn&amp;rsquo;t picking up any red snow in that particular region. The satellite (Sentinel-2) flies over weekly, so you can try checking back in a few days, or try searching another area.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1B. Download the points&lt;/strong&gt; by clicking the &amp;lsquo;Download points link&amp;rsquo;. A pop-up will ask you where to save.&lt;/p&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;import&#34;&gt;2. Import points into Gaia&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Visit the 
+&lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS website&lt;/a&gt;. If this is your first time, click &amp;lsquo;Sign Up For Free&amp;rsquo;, and use the same email you used for the 
+&lt;a href=&#34;https://form.jotform.com/211555732971055&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;liability waiver/sign up&lt;/a&gt;. Note: it may take a few days after you sign up for us to activate your free 
+&lt;a href=&#34;https://www.gaiagps.com/premium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia Premium&lt;/a&gt; subscription.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2A Upload points.&lt;/strong&gt; Once you&amp;rsquo;ve logged into the 
+&lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaia GPS website&lt;/a&gt;, on the left menu click &amp;lsquo;Import Data&amp;rsquo;, then &amp;lsquo;Select Files&amp;rsquo;, then navigate to where you saved the points.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;gaia-web-main.png&#34; alt=&#34;import-button&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2B Save points&lt;/strong&gt;. The points will pop up on the map. Click the green &amp;lsquo;Save __ items&amp;rsquo; button to upload the points to Gaia Cloud. (Note: you may get a &amp;lsquo;Large file import&amp;rsquo; warning message if your file contains many points. Click the box and click Import and proceed.)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;import-to-gaia.png&#34; alt=&#34;screenshot-import-to-gaia-button&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2C Click &amp;lsquo;Folders&amp;rsquo;&lt;/strong&gt; in the top right drop-down menu.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;gaia-web-folders.png&#34; alt=&#34;folders-button&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2D View your points&lt;/strong&gt; by clicking the title of your uploaded points (something.geojson). By default the folders are listed with the most recent at the top.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2E Share the points&lt;/strong&gt; by scrolling down to the &amp;lsquo;Share This Folder&amp;rsquo; options on the right panel. Enter my email 
+&lt;a href=&#34;mailto:casey.engstrom@gmail.com&#34;&gt;casey.engstrom (at) gmail.com&lt;/a&gt;, and click the &amp;lsquo;Share&amp;rsquo; button below. This step is important, otherwise we won&amp;rsquo;t be able to see the data you&amp;rsquo;ve collected.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;share-gaia-folder.png&#34; alt=&#34;share&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;force-sync&#34;&gt;2F Check that the points have sync&amp;rsquo;d to your phone&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;If this is your first time, download Gaia GPS from your smartphone app store, and log in using the same credentials you used for the Gaia GPS website.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In the Gaia phone app, check the map to see that your points have loaded. If the points don&amp;rsquo;t appear, ensure that your data is set to auto-sync. In the bottom &amp;lsquo;Settings&amp;rsquo; menu, click &amp;lsquo;Account&amp;rsquo;, make sure the slider for Sync With GaiaCloud is green. Click the grey box where it says &amp;lsquo;Last Sync&amp;rsquo; to force a sync now.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;sync-button.jpg&#34; alt=&#34;point-button&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;hike&#34;&gt;3. Hike to points&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Please save/download this page onto your phone for reference in the field.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Visit points along your route using Gaia GPS blue-dot navigation. Exercise best judgement, do not visit a point if it feels unsafe for any reason! If possible, try and visit an equal number or red and blue points, but in many cases this will not be possible. Overall we expect there will be more red points than blue, so if in doubt try and visit more red points.&lt;/p&gt;
+&lt;p&gt;Upon arrival to a point, have a look at the snow within a ~5 m radius of where you stand. Is the snow visibly pink? Or does it just look dirty?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;garibaldi.jpg&#34; alt=&#34;algae-trees&#34;&gt;&lt;/p&gt;
+&lt;p&gt;^^definitely Algae.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;dirt-v-snow.jpg&#34; alt=&#34;dirt-v-algae&#34;&gt;&lt;/p&gt;
+&lt;p&gt;^^that&amp;rsquo;s Dirt. Although you can see some pink algae in the background&amp;ndash;but that&amp;rsquo;s outside of the 5 metre radius, so I would classify this point as Dirt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3A Take photo.&lt;/strong&gt; Click the red/blue pin, then click the the little green (i) button to edit the point. Use camera button to enter photography mode. Take a photo that you think is representative of the nearby snow surface (see above for examples).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;photo-button.jpg&#34; alt=&#34;take-photo-icon&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3B Title the point.&lt;/strong&gt; Automatically after the photo is selected, a pop-up will ask you to title the photo. Please title the photo one of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algae&lt;/li&gt;
+&lt;li&gt;Mix&lt;/li&gt;
+&lt;li&gt;Dirt&lt;/li&gt;
+&lt;li&gt;Ash&lt;/li&gt;
+&lt;li&gt;White&lt;/li&gt;
+&lt;li&gt;Other&lt;/li&gt;
+&lt;li&gt;Unsure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Only classify as &amp;lsquo;Algae&amp;rsquo; if the snow is mostly bright pink. &amp;lsquo;White&amp;rsquo; is for plain ol white snow (or slightly dirty). You can also write &amp;lsquo;Mix&amp;rsquo; if there is a mix of snow algae and dirt, or &amp;lsquo;Unsure&amp;rsquo; if you don&amp;rsquo;t know. Optionally provide more details in the Notes section. Save.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;photo-title.jpg&#34; alt=&#34;photo-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3C Check that your point data is saved.&lt;/strong&gt; Navigate back to the map, and click on the point again (the little green (i) button) to make sure the photo and title are attached. You should see a photo thumbnail next to the camera button, and the title should appear at the top.&lt;/p&gt;
+&lt;p&gt;Repeat steps 3A - 3C to visit as many points as reasonably and safely possible. Ideally visit an even number of red and blue points, but do your best&amp;ndash;this is not always possible (nor is it essential, just an overall rough balance between red and blue points is what we&amp;rsquo;re going for).&lt;/p&gt;
+&lt;p&gt;Be aware of mountain hazards, and practice 
+&lt;a href=&#34;https://www.leavenotrace.ca/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leave No Trace&lt;/a&gt;. Remember, we don&amp;rsquo;t expect you to visit all points, likely many points will not be accessible! Even just one point provides us with valuable data, and between 10 and 20 is reasonable for a day trip. Overall, try and visit an equal number of red and blue points.&lt;/p&gt;
+&lt;br&gt;
+&lt;h1 id=&#34;sync&#34;&gt;4. Sync data&lt;/h1&gt;
+&lt;p&gt;Upon return, visit 
+&lt;a href=&#34;https://www.gaiagps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;gaiagps.com&lt;/a&gt; and click a few points to ensure that your data was properly sync&amp;rsquo;d. If not, check the sync settings in your phone app. See step 2F.&lt;/p&gt;
+&lt;p&gt;Thank you for participating, be safe, and have fun!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
