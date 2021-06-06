@@ -6,7 +6,7 @@ slug: volunteer-protocol
 categories: []
 tags: [snow algae, community science, citizen science, protocol, volunteer, watermelon snow, satellite, ground validation, Quarmby Lab, Simon Fraser University, British Columbia]
 subtitle: ''
-summary: 'Community citizen science protocol to map snow algae. Detailed step-by-step instructions to ground validate satellite-predicted points for participants'
+summary: 'Detailed step-by-step instructions for Snow Algae Atlas volunteers. How to sign up, get the apps, and collect data.'
 description: 'Community citizen science protocol to map snow algae. Detailed step-by-step instructions to ground validate satellite-predicted points for participants'
 authors: []
 lastmod: '2021-05-31T18:50:03-07:00'
