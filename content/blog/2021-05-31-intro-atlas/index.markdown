@@ -6,7 +6,7 @@ slug: intro-atlas
 categories: []
 tags: [snow algae, community science, citizen science, volunteer, watermelon snow, satellite, ground validation, Quarmby Lab, Simon Fraser University, British Columbia]
 subtitle: ''
-summary: 'Project overview, introduction to snow algae satellite classification and community science ground validation'
+summary: 'What are snow algae and why should we care? Introduction to Snow Algae Atlas satellite classification, and how community science can help.'
 description: 'Snow algae atlas project overview and motivation, introduction to community citizen science project to map snow algae and ground validate satellite imagery'
 authors: []
 lastmod: '2021-05-31T16:58:32-07:00'
