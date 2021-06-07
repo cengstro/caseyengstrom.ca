@@ -38,4 +38,4 @@ This summer, hikers and mountaineers can help us ground validate our snow algae 
 
 ![catamount](cat4.jpg)
 
-If you like to spend time in the mountains, please consider [signing up](https://form.jotform.com/211555732971055) to participate in our citizen science project. As a bonus, participants recieve a free 1-year Gaia GPS Premium membership on signup! For more information, please see the [step-by-step instructions](https://caseyengstrom.ca/blog/volunteer-protocol/). 
+If you like to spend time in the mountains, please consider [signing up](https://form.jotform.com/211535914885059) to participate in our citizen science project. As a bonus, participants recieve a free 1-year Gaia GPS Premium membership on signup! For more information, please see the [step-by-step instructions](https://caseyengstrom.ca/blog/volunteer-protocol/). 
