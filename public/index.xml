@@ -13,6 +13,79 @@
     </image>
     
     <item>
+      <title>Intro to Google Earth Engine Workshop Homepage</title>
+      <link>https://caseyengstrom.ca/workshop/intro-google-earth-engine/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://caseyengstrom.ca/workshop/intro-google-earth-engine/</guid>
+      <description>&lt;p&gt;Welcome to the homepage for Google Earth Engine 101 workshop.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;#syllabus&#34;&gt;Syllabus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#pre-req&#34;&gt;Pre-requisites&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/156572dqZvHS-58NtxL7zy0mAW6FZNdfOhZmV2z8rkoQ/edit?usp=sharing&amp;amp;resourcekey=0-N1RJmtJfHqFXoA0Q56YjWg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;p&gt;The workshop is split into 12 lessons, and takes place over three 2-hour sessions.&lt;/p&gt;
+&lt;h4 id=&#34;day-1&#34;&gt;Day 1&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;GEE overview 
+&lt;a href=&#34;https://docs.google.com/presentation/d/156572dqZvHS-58NtxL7zy0mAW6FZNdfOhZmV2z8rkoQ/edit?usp=sharing&amp;amp;resourcekey=0-N1RJmtJfHqFXoA0Q56YjWg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;1 Client vs Server&lt;/li&gt;
+&lt;li&gt;2 Hello, Images&lt;/li&gt;
+&lt;li&gt;3 Computations on Images&lt;/li&gt;
+&lt;li&gt;4 Spatial reductions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;day-2&#34;&gt;Day 2&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;5 Image collections&lt;/li&gt;
+&lt;li&gt;6 Vectors&lt;/li&gt;
+&lt;li&gt;7 Functions&lt;/li&gt;
+&lt;li&gt;8 Mapping functions&lt;/li&gt;
+&lt;li&gt;9 Reducing Collections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;day-3&#34;&gt;Day 3&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;10 Cloudmasks&lt;/li&gt;
+&lt;li&gt;11 Charts&lt;/li&gt;
+&lt;li&gt;12 Exporting data&lt;/li&gt;
+&lt;li&gt;Wrap up&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The workshop is intended to get you comfortable with coding in the Code Editor, as such all course materials are available in the 
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEE101 repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Each lesson is divided into three parts: Demo, Problem, and Solution. We&amp;rsquo;ll spend a few minutes going over some demo code together to introduce concepts, and then cut you loose to try tackling a problem in the Problem script. The Problems are pretty similar to the Demo, but give you a chance to try it for yourself. After the majority of the class has indicated they are ready to move on, we can review the Solution and talk through any questions.&lt;/p&gt;
+&lt;h2 id=&#34;pre-req&#34;&gt;Pre-requisites&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;signup.earthengine.google.com&#34;&gt;Sign up for a Google Earth Engine account&lt;/a&gt; &lt;em&gt;at least one week before the workshop&lt;/em&gt;. Sign in with your Google credentials, and complete the application.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;gee-signup.png&#34; alt=&#34;gee-signup&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Get to know the 
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Editor&lt;/a&gt; &lt;em&gt;at least one day before the workshop&lt;/em&gt;. Check to see if you are logged in correctly: in the top right corner should be a profile icon, click to make sure you are logged in. Note that it may take up to a week for Google to process your application. If you are not able to log in and it&amp;rsquo;s been a week since you signed up, please 
+&lt;a href=&#34;mailto:cengstro@sfu.ca&#34;&gt;contact&lt;/a&gt; me.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;code-editor.png&#34; alt=&#34;code-editor&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Get to know Google Git. Git is like Microsoft Word&amp;rsquo;s &amp;lsquo;track changes&amp;rsquo; for coders. In the Scripts panel on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”. As a Reader, you can view my scripts, but cannot make changes to my original script. Try altering the script by typing a few characters, and click &amp;lsquo;Save&amp;rsquo;&amp;mdash;a prompt will remind you that this file is read-only, and ask if you would like to make a copy of it. Another prompt will ask you to create a new repository, and then will save your version of the script to it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;save1.png&#34; alt=&#34;save1&#34;&gt;
+&lt;img src=&#34;save2.png&#34; alt=&#34;save2&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Complete the Javascript Basics lesson in the Code Editor &lt;em&gt;before the workshop&lt;/em&gt;. Don&amp;rsquo;t worry, you only need to know very rudimentary basics for GEE. Variables start with &amp;lsquo;var&amp;rsquo;, know what a list and a dictionary are, and understand how to write a simple function and you&amp;rsquo;re be fine. Read through the Demo, follow the commented instructions to run the script. Then test your knowledge by working through the problem set.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;credit&#34;&gt;Credit&lt;/h2&gt;
+&lt;p&gt;These materials are based on teaching material developed by Nick Clinton, Google Earth Engine Developer Relations, and modified by myself. Hosted by 
+&lt;a href=&#34;https://www.lib.sfu.ca/about/branches-depts/rc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon Fraser University Library Research Commons&lt;/a&gt; in 
+&lt;a href=&#34;https://www.lib.sfu.ca/find/other-materials/data-gis/gis/36086&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;March&lt;/a&gt; and 
+&lt;a href=&#34;https://www.lib.sfu.ca/find/other-materials/data-gis/gis/satellite-image-analysis-google-earth-engine-online&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;July&lt;/a&gt; 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Snow Algae Atlas Project Overview</title>
       <link>https://caseyengstrom.ca/blog/intro-atlas/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
