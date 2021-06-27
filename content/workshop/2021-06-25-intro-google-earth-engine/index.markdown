@@ -58,20 +58,35 @@ Each lesson is divided into three parts: Demo, Problem, and Solution. We'll spen
 
 ## Pre-requisites {#pre-req}
 
-1. [Sign up for a Google Earth Engine account](signup.earthengine.google.com) *at least one week before the workshop*. Sign in with your Google credentials, and complete the application. 
+##### 1. [Sign up for a Google Earth Engine account](signup.earthengine.google.com) at least one week before the workshop
+
+Sign in with your Google credentials, and complete the application. It may take several days for your application to go through. 
 
 ![gee-signup](gee-signup.png)
 
-2. Get to know the [Code Editor](https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101) *at least one day before the workshop*. Check to see if you are logged in correctly: in the top right corner should be a profile icon, click to make sure you are logged in. Note that it may take up to a week for Google to process your application. If you are not able to log in and it's been a week since you signed up, please [contact](mailto:cengstro@sfu.ca) me.
+##### 2. Check your application status
+
+Visit the [Code Editor](https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101). If your application was successful, you should see something like this, with your profile icon in top right.
 
 ![code-editor](code-editor.png)
 
-3. Get to know Google Git. Git is like Microsoft Word's 'track changes' for coders. In the Scripts panel on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”. As a Reader, you can view my scripts, but cannot make changes to my original script. Try altering the script by typing a few characters, and click 'Save'---a prompt will remind you that this file is read-only, and ask if you would like to make a copy of it. Another prompt will ask you to create a new repository, and then will save your version of the script to it.  
+If your application was unsucessful, you might see something like this:
+
+![application-denied](application-denied.png)
+
+If you have followed the instructions on the error page, and are still not able to log in, please [contact](mailto:s_zhang@sfu.ca) the workshop instructors.
+
+
+##### 3. Get to know Google Git
+
+Git is like Microsoft Word's 'track changes' for coders. In the Scripts panel on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”. As a Reader, you can view my scripts, but cannot make changes to my original script. Try altering the script by typing a few characters, and click 'Save'---a prompt will remind you that this file is read-only, and ask if you would like to make a copy of it. Another prompt will ask you to create a new repository, and then will save your version of the script to it.  
 
 ![save1](save1.png)
 ![save2](save2.png)
 
-4. Complete the Javascript Basics lesson in the Code Editor *before the workshop*. Don't worry, you only need to know very rudimentary basics for GEE. Variables start with 'var', know what a list and a dictionary are, and understand how to write a simple function and you're be fine. Read through the Demo, follow the commented instructions to run the script. Then test your knowledge by working through the problem set. 
+##### 4. Complete the Javascript Basics lesson in the Code Editor.
+
+Don't worry, you only need to know very rudimentary basics for GEE. Variables start with 'var', know what a list and a dictionary are, and understand how to write a simple function and you're be fine. Read through the Demo, follow the commented instructions to run the script. Then test your knowledge by working through the problem set. 
 
 
 ## Credit
