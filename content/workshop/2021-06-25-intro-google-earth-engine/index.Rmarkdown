@@ -77,9 +77,9 @@ If your application was unsucessful, you might see something like this:
 If you have followed the instructions on the error page, and are still not able to log in, please [contact](mailto:s_zhang@sfu.ca) the workshop instructors.
 
 
-##### 3. Get to know Google Git
+##### 3. Get to know the Code Editor
 
-Git is like Microsoft Word's 'track changes' for coders. In the Scripts panel on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”. As a Reader, you can view my scripts, but cannot make changes to my original script. Try altering the script by typing a few characters, and click 'Save'---a prompt will remind you that this file is read-only, and ask if you would like to make a copy of it. Another prompt will ask you to create a new repository, and then will save your version of the script to it.  
+In the Scripts panel on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”. As a Reader, you can view my scripts, but cannot make changes to my original script. Try altering the script by typing a few characters, and click 'Save'---a prompt will remind you that this file is read-only, and ask if you would like to make a copy of it. Another prompt will ask you to create a new repository, and then will save your version of the script to it.  
 
 ![save1](save1.png)
 ![save2](save2.png)

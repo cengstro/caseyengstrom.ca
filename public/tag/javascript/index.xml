@@ -70,8 +70,8 @@
 &lt;p&gt;&lt;img src=&#34;application-denied.png&#34; alt=&#34;application-denied&#34;&gt;&lt;/p&gt;
 &lt;p&gt;If you have followed the instructions on the error page, and are still not able to log in, please 
 &lt;a href=&#34;mailto:s_zhang@sfu.ca&#34;&gt;contact&lt;/a&gt; the workshop instructors.&lt;/p&gt;
-&lt;h5 id=&#34;3-get-to-know-google-git&#34;&gt;3. Get to know Google Git&lt;/h5&gt;
-&lt;p&gt;Git is like Microsoft Word&amp;rsquo;s &amp;lsquo;track changes&amp;rsquo; for coders. In the Scripts panel on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”. As a Reader, you can view my scripts, but cannot make changes to my original script. Try altering the script by typing a few characters, and click &amp;lsquo;Save&amp;rsquo;&amp;mdash;a prompt will remind you that this file is read-only, and ask if you would like to make a copy of it. Another prompt will ask you to create a new repository, and then will save your version of the script to it.&lt;/p&gt;
+&lt;h5 id=&#34;3-get-to-know-the-code-editor&#34;&gt;3. Get to know the Code Editor&lt;/h5&gt;
+&lt;p&gt;In the Scripts panel on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”. As a Reader, you can view my scripts, but cannot make changes to my original script. Try altering the script by typing a few characters, and click &amp;lsquo;Save&amp;rsquo;&amp;mdash;a prompt will remind you that this file is read-only, and ask if you would like to make a copy of it. Another prompt will ask you to create a new repository, and then will save your version of the script to it.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;save1.png&#34; alt=&#34;save1&#34;&gt;
 &lt;img src=&#34;save2.png&#34; alt=&#34;save2&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;4-complete-the-javascript-basics-lesson-in-the-code-editor&#34;&gt;4. Complete the Javascript Basics lesson in the Code Editor.&lt;/h5&gt;
