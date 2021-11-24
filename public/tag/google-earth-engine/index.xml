@@ -5,7 +5,7 @@
     <link>https://caseyengstrom.ca/tag/google-earth-engine/</link>
       <atom:link href="https://caseyengstrom.ca/tag/google-earth-engine/index.xml" rel="self" type="application/rss+xml" />
     <description>google-earth-engine</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://caseyengstrom.ca/img/gar19.11b_diverse1.JPG</url>
       <title>google-earth-engine</title>
@@ -15,9 +15,9 @@
     <item>
       <title>Intro to Google Earth Engine Workshop Homepage</title>
       <link>https://caseyengstrom.ca/workshop/intro-google-earth-engine/</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://caseyengstrom.ca/workshop/intro-google-earth-engine/</guid>
-      <description>&lt;p&gt;Welcome to the homepage for Google Earth Engine 101 workshop.&lt;/p&gt;
+      <description>&lt;p&gt;TEST Welcome to the homepage for Google Earth Engine 101 workshop.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;#syllabus&#34;&gt;Syllabus&lt;/a&gt;&lt;/li&gt;

@@ -1,7 +1,7 @@
 ---
 title: Intro to Google Earth Engine Workshop Homepage
 author: Casey Engstrom
-date: '2021-06-25'
+date: "2021-11-24"
 slug: intro-google-earth-engine
 categories: []
 tags: [google-earth-engine, javascript, remote-sensing, workshops]
@@ -9,7 +9,7 @@ subtitle: ''
 summary: 'Workshop materials for participants.'
 description: ''
 authors: []
-lastmod: '2021-06-25T16:58:32-07:00'
+lastmod: "2021-11-24"
 featured: no
 image:
   caption: ''
@@ -18,7 +18,7 @@ image:
 projects: []
 ---
 
-Welcome to the homepage for Google Earth Engine 101 workshop. 
+TEST Welcome to the homepage for Google Earth Engine 101 workshop. 
 
 - [Syllabus](#syllabus)
 - [Pre-requisites](#pre-req)
