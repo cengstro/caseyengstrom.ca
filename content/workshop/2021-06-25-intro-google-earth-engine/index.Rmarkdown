@@ -1,7 +1,7 @@
 ---
 title: Intro to Google Earth Engine Workshop Homepage
 author: Casey Engstrom
-date: '2021-06-25'
+date: "`r Sys.Date()`"
 slug: intro-google-earth-engine
 categories: []
 tags: [google-earth-engine, javascript, remote-sensing, workshops]
@@ -9,7 +9,7 @@ subtitle: ''
 summary: 'Workshop materials for participants.'
 description: ''
 authors: []
-lastmod: '2021-06-25T16:58:32-07:00'
+lastmod: "`r Sys.Date()`"
 featured: no
 image:
   caption: ''
