@@ -18,8 +18,9 @@ image:
 projects: []
 ---
 
-TEST Welcome to the homepage for Google Earth Engine 101 workshop. 
+Welcome to the homepage for Google Earth Engine 101 workshop. 
 
+- [Workshop description and schedule](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/gee-workshop)
 - [Syllabus](#syllabus)
 - [Pre-requisites](#pre-req)
 - [Slides](https://docs.google.com/presentation/d/156572dqZvHS-58NtxL7zy0mAW6FZNdfOhZmV2z8rkoQ/edit?usp=sharing&resourcekey=0-N1RJmtJfHqFXoA0Q56YjWg)
@@ -28,7 +29,7 @@ TEST Welcome to the homepage for Google Earth Engine 101 workshop.
 
 ## Syllabus {#syllabus}
 
-The workshop is split into 12 lessons, and takes place over three 2-hour sessions.
+The workshop is split into 12 lessons, and takes place over three 2-hour sessions. Please refer to the [schedule](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/gee-workshop) for exact times. 
 
 #### Day 1
 - GEE overview [presentation](https://docs.google.com/presentation/d/156572dqZvHS-58NtxL7zy0mAW6FZNdfOhZmV2z8rkoQ/edit?usp=sharing&resourcekey=0-N1RJmtJfHqFXoA0Q56YjWg)
