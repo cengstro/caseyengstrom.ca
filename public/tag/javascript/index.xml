@@ -74,16 +74,19 @@
 &lt;p&gt;If you have followed the instructions on the error page, and are still not able to log in, please 
 &lt;a href=&#34;mailto:s_zhang@sfu.ca&#34;&gt;contact&lt;/a&gt; the workshop instructors.&lt;/p&gt;
 &lt;h5 id=&#34;3-get-to-know-the-code-editor&#34;&gt;3. Get to know the Code Editor&lt;/h5&gt;
-&lt;p&gt;In the 
-&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Editor&lt;/a&gt;, in the Scripts tab on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”, and open the first script &amp;ldquo;00a - Javascript Demo&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Open the 
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Editor&lt;/a&gt;. Take the Feature Tour by clicking the grey ? button in the upper right corner.&lt;/p&gt;
+&lt;h5 id=&#34;4-load-the-class-repo-save-a-copy&#34;&gt;4. Load the class repo, save a copy&lt;/h5&gt;
+&lt;p&gt;Access the 
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;class repository&lt;/a&gt;.
+In the Scripts tab on the left side of the Code Editor, scroll down to the “Reader” section and click on the GEE101 repository “users/caseyengstrom/GEE101”. Open the first script &amp;ldquo;00a - Javascript Demo&amp;rdquo;.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Alter the script by typing a comment. Type two forward slashes // followed by some text, and it will turn green. Comments will be ignored by the computer, but are highly useful for collaborators or your future self to understand a script. Click &amp;lsquo;Save&amp;rsquo;.&lt;/li&gt;
-&lt;li&gt;A pop-up window should tell you that this file is read-only, and ask if you would like to make a copy of it. Click yes.&lt;/li&gt;
-&lt;li&gt;Another prompt will ask you to create a new repository. Name it something like &amp;ldquo;myGEE101&amp;rdquo;, and hit save. Your altered copy of the script will be saved to your new repo.&lt;/li&gt;
+&lt;li&gt;Alter the script by typing a comment. Type two forward slashes // followed by some text, and it will turn green. Comments will be ignored by the computer, but are highly useful for collaborators or your future self to understand a script. Click &amp;lsquo;Yes&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;A pop-up window should tell you that this file is read-only, and ask if you would like to make a copy of it. Click yes.
+&lt;img src=&#34;save1.png&#34; alt=&#34;save1&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Another prompt will ask you to create a new repository (essentially, a collection of folders to store your scripts). Name it something like &amp;ldquo;myGEE101&amp;rdquo;. Now save your copy of the script to your new repo.
+&lt;img src=&#34;save2.png&#34; alt=&#34;save2&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;As you follow along with the workshop you can write comments in the scripts that you can save in your own repo and refer back to later.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;save1.png&#34; alt=&#34;save1&#34;&gt;
-&lt;img src=&#34;save2.png&#34; alt=&#34;save2&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;4-complete-the-javascript-basics-lesson-in-the-code-editor&#34;&gt;4. Complete the Javascript Basics lesson in the Code Editor.&lt;/h5&gt;
 &lt;p&gt;Read through the Lesson 0 Demo &amp;ldquo;00a - Javascript Demo&amp;rdquo;, and hit &amp;lsquo;Run&amp;rsquo;. The output will print to the Console. Play around with it, type some of your own code, write yourself comments, and make sure you understand the concepts listed at the top of the script. Then test your knowledge with the Lesson 0 Problem Set &amp;ldquo;00b - Javascript Problem&amp;rdquo; by typing code below each numbered problem. Check your solution against the key &amp;ldquo;00c - Javascript Solution&amp;rdquo; (you will learn more if you try it yourself!).&lt;/p&gt;
 &lt;h2 id=&#34;credit&#34;&gt;Credit&lt;/h2&gt;

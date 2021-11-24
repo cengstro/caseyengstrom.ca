@@ -80,16 +80,22 @@ If you have followed the instructions on the error page, and are still not able 
 
 ##### 3. Get to know the Code Editor
 
-In the [Code Editor](https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101), in the Scripts tab on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”, and open the first script "00a - Javascript Demo".
+Open the [Code Editor](https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101). Take the Feature Tour by clicking the grey ? button in the upper right corner.
 
-1. Alter the script by typing a comment. Type two forward slashes // followed by some text, and it will turn green. Comments will be ignored by the computer, but are highly useful for collaborators or your future self to understand a script. Click 'Save'. 
+
+##### 4. Load the class repo, save a copy
+
+Access the [class repository](https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101).
+In the Scripts tab on the left side of the Code Editor, scroll down to the “Reader” section and click on the GEE101 repository “users/caseyengstrom/GEE101”. Open the first script "00a - Javascript Demo".
+
+1. Alter the script by typing a comment. Type two forward slashes // followed by some text, and it will turn green. Comments will be ignored by the computer, but are highly useful for collaborators or your future self to understand a script. Click 'Yes'. 
 2. A pop-up window should tell you that this file is read-only, and ask if you would like to make a copy of it. Click yes. 
-3. Another prompt will ask you to create a new repository. Name it something like "myGEE101", and hit save. Your altered copy of the script will be saved to your new repo.
-
-As you follow along with the workshop you can write comments in the scripts that you can save in your own repo and refer back to later. 
-
 ![save1](save1.png)
+3. Another prompt will ask you to create a new repository (essentially, a collection of folders to store your scripts). Name it something like "myGEE101". Now save your copy of the script to your new repo. 
 ![save2](save2.png)
+
+
+
 
 ##### 4. Complete the Javascript Basics lesson in the Code Editor.
 
