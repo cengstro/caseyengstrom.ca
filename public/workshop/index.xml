@@ -61,8 +61,8 @@
 &lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEE101 repository&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Each lesson is divided into three parts: Demo, Problem, and Solution. We&amp;rsquo;ll spend a few minutes going over some demo code together to introduce concepts, and then cut you loose to try tackling a problem in the Problem script. The Problems are pretty similar to the Demo, but give you a chance to try it for yourself. After the majority of the class has indicated they are ready to move on, we can review the Solution and talk through any questions.&lt;/p&gt;
 &lt;h2 id=&#34;pre-req&#34;&gt;Pre-requisites&lt;/h2&gt;
-&lt;h5 id=&#34;1-sign-up-for-a-google-earth-engine-accounthttpsearthenginegooglecomnew_signup-at-least-one-week-before-the-workshop&#34;&gt;1. 
-&lt;a href=&#34;https://earthengine.google.com/new_signup/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sign up for a Google Earth Engine account&lt;/a&gt; at least one week before the workshop&lt;/h5&gt;
+&lt;h5 id=&#34;1-sign-up-for-a-google-earth-engine-accounthttpssignupearthenginegooglecom-at-least-one-week-before-the-workshop&#34;&gt;1. 
+&lt;a href=&#34;https://signup.earthengine.google.com/#!/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sign up for a Google Earth Engine account&lt;/a&gt; at least one week before the workshop&lt;/h5&gt;
 &lt;p&gt;Sign in with your Google credentials, and complete the application. It may take several days for your application to go through.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;gee-signup.png&#34; alt=&#34;gee-signup&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;2-check-your-application-status&#34;&gt;2. Check your application status&lt;/h5&gt;
@@ -76,23 +76,11 @@
 &lt;h5 id=&#34;3-get-to-know-the-code-editor&#34;&gt;3. Get to know the Code Editor&lt;/h5&gt;
 &lt;p&gt;In the 
 &lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Editor&lt;/a&gt;, in the Scripts tab on the left side, click “Reader”, and click to open the GEE101 repository “users/caseyengstrom/GEE101”, and open the first script &amp;ldquo;00a - Javascript Demo&amp;rdquo;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
 &lt;ol&gt;
 &lt;li&gt;Alter the script by typing a comment. Type two forward slashes // followed by some text, and it will turn green. Comments will be ignored by the computer, but are highly useful for collaborators or your future self to understand a script. Click &amp;lsquo;Save&amp;rsquo;.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;A pop-up window should tell you that this file is read-only, and ask if you would like to make a copy of it. Click yes.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;Another prompt will ask you to create a new repository. Name it something like &amp;ldquo;myGEE101&amp;rdquo;, and hit save. Your altered copy of the script will be saved to your new repo.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;As you follow along with the workshop you can write comments in the scripts that you can save in your own repo and refer back to later.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;save1.png&#34; alt=&#34;save1&#34;&gt;
 &lt;img src=&#34;save2.png&#34; alt=&#34;save2&#34;&gt;&lt;/p&gt;
