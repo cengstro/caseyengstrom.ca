@@ -18,7 +18,7 @@ image:
 projects: []
 ---
 
-TEST Welcome to the homepage for Google Earth Engine 101 workshop. 
+Welcome to the homepage for Google Earth Engine 101 workshop. 
 
 - [Workshop description and schedule](https://www.lib.sfu.ca/find/other-materials/data-gis/gis/gee-workshop)
 - [Syllabus](#syllabus)
