@@ -88,7 +88,9 @@ In the Scripts tab on the left side of the Code Editor, scroll down to the “Re
 &lt;img src=&#34;save2.png&#34; alt=&#34;save2&#34;&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h5 id=&#34;4-complete-the-javascript-basics-lesson-in-the-code-editor&#34;&gt;4. Complete the Javascript Basics lesson in the Code Editor.&lt;/h5&gt;
-&lt;p&gt;Read through the Lesson 0 Demo &amp;ldquo;00a - Javascript Demo&amp;rdquo;, and hit &amp;lsquo;Run&amp;rsquo;. The output will print to the Console. Play around with it, type some of your own code, write yourself comments, and make sure you understand the concepts listed at the top of the script. Then test your knowledge with the Lesson 0 Problem Set &amp;ldquo;00b - Javascript Problem&amp;rdquo; by typing code below each numbered problem. Check your solution against the key &amp;ldquo;00c - Javascript Solution&amp;rdquo; (you will learn more if you try it yourself!).&lt;/p&gt;
+&lt;p&gt;Read through the Lesson 0 Demo &amp;ldquo;00a - Javascript Demo&amp;rdquo;. Make sure you understand the concepts listed at the top of the script. Test your knowledge with the Lesson 0 Problem Set &amp;ldquo;00b - Javascript Problem&amp;rdquo;. Check your answer against the solution key &amp;ldquo;00c - Javascript Solution&amp;rdquo;.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
 &lt;h2 id=&#34;credit&#34;&gt;Credit&lt;/h2&gt;
 &lt;p&gt;These materials were originally developed by Nick Clinton, Google Earth Engine Developer Relations, and heavily modified by myself. This workshop was supported by the 
 &lt;a href=&#34;https://www.lib.sfu.ca/about/branches-depts/rc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon Fraser University Library Research Commons&lt;/a&gt;.&lt;/p&gt;

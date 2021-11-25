@@ -99,8 +99,10 @@ In the Scripts tab on the left side of the Code Editor, scroll down to the “Re
 
 ##### 4. Complete the Javascript Basics lesson in the Code Editor.
 
-Read through the Lesson 0 Demo "00a - Javascript Demo", and hit 'Run'. The output will print to the Console. Play around with it, type some of your own code, write yourself comments, and make sure you understand the concepts listed at the top of the script. Then test your knowledge with the Lesson 0 Problem Set "00b - Javascript Problem" by typing code below each numbered problem. Check your solution against the key "00c - Javascript Solution" (you will learn more if you try it yourself!).
+Read through the Lesson 0 Demo "00a - Javascript Demo". Make sure you understand the concepts listed at the top of the script. Test your knowledge with the Lesson 0 Problem Set "00b - Javascript Problem". Check your answer against the solution key "00c - Javascript Solution".
 
+<br>
+<br>
 
 ## Credit
 
