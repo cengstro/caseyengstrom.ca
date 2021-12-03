@@ -5,7 +5,7 @@
     <link>https://caseyengstrom.ca/tag/workshops/</link>
       <atom:link href="https://caseyengstrom.ca/tag/workshops/index.xml" rel="self" type="application/rss+xml" />
     <description>workshops</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright><lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://caseyengstrom.ca/img/gar19.11b_diverse1.JPG</url>
       <title>workshops</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Intro to Google Earth Engine Workshop Homepage</title>
       <link>https://caseyengstrom.ca/workshop/intro-google-earth-engine/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://caseyengstrom.ca/workshop/intro-google-earth-engine/</guid>
       <description>&lt;p&gt;Welcome to the homepage for Google Earth Engine 101 workshop.&lt;/p&gt;
 &lt;ul&gt;
@@ -29,6 +29,8 @@
 &lt;a href=&#34;https://docs.google.com/presentation/d/156572dqZvHS-58NtxL7zy0mAW6FZNdfOhZmV2z8rkoQ/edit?usp=sharing&amp;amp;resourcekey=0-N1RJmtJfHqFXoA0Q56YjWg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://1sfu-my.sharepoint.com/:f:/g/personal/rcommons_sfu_ca/EjaCsnLs6fhDqqnX7aq2l68BYoevhQx9pa2s9vBOUUSI_Q?e=XR3M4B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video recordings&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
 &lt;p&gt;The workshop is split into 12 lessons, and takes place over three 2-hour sessions. Please refer to the 
