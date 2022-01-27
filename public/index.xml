@@ -5,12 +5,97 @@
     <link>https://caseyengstrom.ca/</link>
       <atom:link href="https://caseyengstrom.ca/index.xml" rel="self" type="application/rss+xml" />
     <description>Casey Engstrom</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Casey Engstrom 2022</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://caseyengstrom.ca/img/gar19.11b_diverse1.JPG</url>
       <title>Casey Engstrom</title>
       <link>https://caseyengstrom.ca/</link>
     </image>
+    
+    <item>
+      <title>Intro to Google Earth Engine Workshop Homepage</title>
+      <link>https://caseyengstrom.ca/blog/intro-google-earth-engine/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://caseyengstrom.ca/blog/intro-google-earth-engine/</guid>
+      <description>&lt;p&gt;Welcome to the homepage for Google Earth Engine 101 workshop.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.lib.sfu.ca/find/other-materials/data-gis/gis/gee-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Workshop description and schedule&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#syllabus&#34;&gt;Syllabus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;#pre-req&#34;&gt;Pre-requisites&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/presentation/d/156572dqZvHS-58NtxL7zy0mAW6FZNdfOhZmV2z8rkoQ/edit?usp=sharing&amp;amp;resourcekey=0-N1RJmtJfHqFXoA0Q56YjWg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;p&gt;The workshop is split into 12 lessons, and takes place over three 2-hour sessions. Please refer to the 
+&lt;a href=&#34;https://www.lib.sfu.ca/find/other-materials/data-gis/gis/gee-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;schedule&lt;/a&gt; for exact times.&lt;/p&gt;
+&lt;h4 id=&#34;day-1&#34;&gt;Day 1&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;GEE overview 
+&lt;a href=&#34;https://docs.google.com/presentation/d/156572dqZvHS-58NtxL7zy0mAW6FZNdfOhZmV2z8rkoQ/edit?usp=sharing&amp;amp;resourcekey=0-N1RJmtJfHqFXoA0Q56YjWg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;1 Client vs Server&lt;/li&gt;
+&lt;li&gt;2 Hello, Images&lt;/li&gt;
+&lt;li&gt;3 Computations on Images&lt;/li&gt;
+&lt;li&gt;4 Spatial reductions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;day-2&#34;&gt;Day 2&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;5 Image collections&lt;/li&gt;
+&lt;li&gt;6 Vectors&lt;/li&gt;
+&lt;li&gt;7 Functions&lt;/li&gt;
+&lt;li&gt;8 Mapping functions&lt;/li&gt;
+&lt;li&gt;9 Reducing Collections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;day-3&#34;&gt;Day 3&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;10 Cloudmasks&lt;/li&gt;
+&lt;li&gt;11 Charts&lt;/li&gt;
+&lt;li&gt;12 Exporting data&lt;/li&gt;
+&lt;li&gt;Wrap up&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The workshop is intended to get you comfortable with coding in the Code Editor, as such all course materials are available in the 
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GEE101 repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Each lesson is divided into three parts: Demo, Problem, and Solution. We&amp;rsquo;ll spend a few minutes going over some demo code together to introduce concepts, and then cut you loose to try tackling a problem in the Problem script. The Problems are pretty similar to the Demo, but give you a chance to try it for yourself. After the majority of the class has indicated they are ready to move on, we can review the Solution and talk through any questions.&lt;/p&gt;
+&lt;h2 id=&#34;pre-req&#34;&gt;Pre-requisites&lt;/h2&gt;
+&lt;h5 id=&#34;1-sign-up-for-a-google-earth-engine-accounthttpssignupearthenginegooglecom-at-least-one-week-before-the-workshop&#34;&gt;1. 
+&lt;a href=&#34;https://signup.earthengine.google.com/#!/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sign up for a Google Earth Engine account&lt;/a&gt; at least one week before the workshop&lt;/h5&gt;
+&lt;p&gt;Sign in with your Google credentials, and complete the application. It may take several days for your application to go through.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;gee-signup.png&#34; alt=&#34;gee-signup&#34;&gt;&lt;/p&gt;
+&lt;h5 id=&#34;2-check-your-application-status&#34;&gt;2. Check your application status&lt;/h5&gt;
+&lt;p&gt;Visit the 
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Editor&lt;/a&gt;. If your application was successful, you should see something like this, with your profile icon in top right.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;code-editor.png&#34; alt=&#34;code-editor&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If your application was unsucessful, you might see something like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;application-denied.png&#34; alt=&#34;application-denied&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you have followed the instructions on the error page, and are still not able to log in, please 
+&lt;a href=&#34;mailto:s_zhang@sfu.ca&#34;&gt;contact&lt;/a&gt; the workshop instructors.&lt;/p&gt;
+&lt;h5 id=&#34;3-get-to-know-the-code-editor&#34;&gt;3. Get to know the Code Editor&lt;/h5&gt;
+&lt;p&gt;Open the 
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Editor&lt;/a&gt;. Take the Feature Tour by clicking the grey ? button in the upper right corner.&lt;/p&gt;
+&lt;h5 id=&#34;4-load-the-class-repo-save-a-copy&#34;&gt;4. Load the class repo, save a copy&lt;/h5&gt;
+&lt;p&gt;Access the 
+&lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;class repository&lt;/a&gt;.
+In the Scripts tab on the left side of the Code Editor, scroll down to the “Reader” section and click on the GEE101 repository “users/caseyengstrom/GEE101”. Open the first script &amp;ldquo;00a - Javascript Demo&amp;rdquo;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Alter the script by typing a comment. Type two forward slashes // followed by some text, and it will turn green. Comments will be ignored by the computer, but are highly useful for collaborators or your future self to understand a script. Click &amp;lsquo;Yes&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;A pop-up window should tell you that this file is read-only, and ask if you would like to make a copy of it. Click yes.
+&lt;img src=&#34;save1.png&#34; alt=&#34;save1&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Another prompt will ask you to create a new repository (essentially, a collection of folders to store your scripts). Name it something like &amp;ldquo;myGEE101&amp;rdquo;. Now save your copy of the script to your new repo.
+&lt;img src=&#34;save2.png&#34; alt=&#34;save2&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;4-complete-the-javascript-basics-lesson-in-the-code-editor&#34;&gt;4. Complete the Javascript Basics lesson in the Code Editor.&lt;/h5&gt;
+&lt;p&gt;Read through the Lesson 0 Demo &amp;ldquo;00a - Javascript Demo&amp;rdquo;. Make sure you understand the concepts listed at the top of the script. Test your knowledge with the Lesson 0 Problem Set &amp;ldquo;00b - Javascript Problem&amp;rdquo;. Check your answer against the solution key &amp;ldquo;00c - Javascript Solution&amp;rdquo;.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;credit&#34;&gt;Credit&lt;/h2&gt;
+&lt;p&gt;These materials were originally developed by Nick Clinton, Google Earth Engine Developer Relations, and heavily modified by myself. This workshop was supported by the 
+&lt;a href=&#34;https://www.lib.sfu.ca/about/branches-depts/rc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon Fraser University Library Research Commons&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Intro to Google Earth Engine Workshop Homepage</title>
@@ -30,7 +115,6 @@
 &lt;li&gt;
 &lt;a href=&#34;https://code.earthengine.google.com/?accept_repo=users/caseyengstrom/GEE101&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- - [Video recordings](https://1sfu-my.sharepoint.com/:f:/g/personal/rcommons_sfu_ca/EjaCsnLs6fhDqqnX7aq2l68BYoevhQx9pa2s9vBOUUSI_Q?e=XR3M4B) --&gt;
 &lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
 &lt;p&gt;The workshop is split into 12 lessons, and takes place over three 2-hour sessions. Please refer to the 
 &lt;a href=&#34;https://www.lib.sfu.ca/find/other-materials/data-gis/gis/gee-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;schedule&lt;/a&gt; for exact times.&lt;/p&gt;
