@@ -19,7 +19,7 @@ projects: [community-science-satellite-validation]
 ---
 
 
-2022 UPDATE: This project is no longer actively recruiting volunteers. If you are still interested in volunteering, please see [https://wp.wwu.edu/livingsnowproject/](https://wp.wwu.edu/livingsnowproject/).
+**2022 UPDATE: This project is no longer actively recruiting volunteers.** If you are still interested in volunteering, please see [https://wp.wwu.edu/livingsnowproject/](https://wp.wwu.edu/livingsnowproject/).
 
 
 The [Snow Algae Atlas](https://caseyengstrom.ca/blog/intro-atlas) aims to map the distribution of snow algae by classifying satellite imagery. Volunteers help by hiking to predicted snow algae points to see whether our satellite-predictions are correct. Volunteers get a free 1-year [Gaia GPS Premium membership](https://www.gaiagps.com/premium/)! Here is the protocol:

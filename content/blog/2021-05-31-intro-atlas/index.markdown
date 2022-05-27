@@ -42,4 +42,4 @@ This summer, hikers and mountaineers can help us ground validate our snow algae 
 
 If you like to spend time in the mountains, please consider [signing up](https://form.jotform.com/211535914885059) to participate in our citizen science project. As a bonus, participants recieve a free 1-year Gaia GPS Premium membership on signup! For more information, please see the [step-by-step instructions](https://caseyengstrom.ca/blog/volunteer-protocol/). 
 
-2022 UPDATE: This project is no longer actively recruiting volunteers. If you are still interested in volunteering, please see [https://wp.wwu.edu/livingsnowproject/](https://wp.wwu.edu/livingsnowproject/).
+**2022 UPDATE: This project is no longer actively recruiting volunteers.** If you are still interested in volunteering, please see [https://wp.wwu.edu/livingsnowproject/](https://wp.wwu.edu/livingsnowproject/).
