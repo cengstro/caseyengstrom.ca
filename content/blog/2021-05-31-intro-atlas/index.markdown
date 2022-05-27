@@ -18,6 +18,7 @@ image:
 projects: []
 ---
 
+
 Although we typically think of snow as sterile and lifeless, in summer the snow surface is in fact teeming with life. The melting snow provides liquid water that supports pink blooms of single-celled algae called 'watermelon snow', which feed a diverse [microbiome](https://blog.alpineclubofcanada.ca/state-of-the-mountains/2020/4/14/watermelon-snow-a-microscopic-serengeti) of microscopic grazers, parasitic fungi, and symbiotic bacteria. Fascinating in its own right, this microbiome is also important for its role in the broader ecosystem: the algae "eat away" at the snow. The red algae darken the snow surface, melting away pockets of snow like holes in Swiss cheese. 
 
 ![albedo-effect](albedo_effect.jpg)
@@ -34,8 +35,11 @@ However, other things also cause the snow to appear pink in satellite images: fo
 
 ![Pink Snow on the Vowell Glacier, Bugaboos, 2020](vowell.png)
 
+
 This summer, hikers and mountaineers can help us ground validate our snow algae satellite map by visiting predicted "Algae" and "Other" locations. Here's how it works: a few days before your trip, check the [web app](https://caseyengstrom.users.earthengine.app/view/snow-algae-ground-truth) for any predicted points in your region. In the field, navigate to those points with the Gaia GPS app and classify whether or not the point is predicted correctly.
 
 ![catamount](cat4.jpg)
 
 If you like to spend time in the mountains, please consider [signing up](https://form.jotform.com/211535914885059) to participate in our citizen science project. As a bonus, participants recieve a free 1-year Gaia GPS Premium membership on signup! For more information, please see the [step-by-step instructions](https://caseyengstrom.ca/blog/volunteer-protocol/). 
+
+2022 UPDATE: This project is no longer actively recruiting volunteers. If you are still interested in volunteering, please see [https://wp.wwu.edu/livingsnowproject/](https://wp.wwu.edu/livingsnowproject/).
