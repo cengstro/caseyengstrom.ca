@@ -36,7 +36,7 @@ superuser: true
 title: Casey Engstrom
 ---
 
-I am a 5th year PhD student in [Lynne Quarmby's Lab](https://www.quarmby.ca) at [Simon Fraser University Dept. Molecular Biology and Biochemistry](https://www.sfu.ca/mbb), where my research focuses on understanding the diversity and biogeography of snow algal blooms in British Columbia. Snow algal blooms darken the snow and absorb more solar energy, therefore increasing the rate of snowmelt in summer. How much area do they cover, and how much of an effect do they have on snowmelt? Are blooms increasing due to climate change? What species are present in these microbiomes? 
+I'm a PhD candidate in [Quarmby Lab](https://www.quarmby.ca) at [Simon Fraser University](https://www.sfu.ca/mbb), did I mention I study snow algae? I am interested in environmental microbiology, remote sensing, data science, bioinformatics, and microscopy. Rock climber, bird nerd, cat dad. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/casey_engstrom_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
