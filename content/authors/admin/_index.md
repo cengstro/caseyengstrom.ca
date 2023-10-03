@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Biologist and climber exploring the snow algae microbiome in the mountains
+# bio: Biologist and climber exploring the snow algae microbiome in the mountains
 email: "cengstro@sfu.ca"
 # organizations:
 # - name: Simon Fraser University
