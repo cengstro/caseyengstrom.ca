@@ -8,18 +8,11 @@ organizations:
   url: https://www.sfu.ca/mbb
 role: PhD Candidate in Molecular Biology
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:cengstro@sfu.ca
+# - icon: envelope
+#   icon_pack: fas
+#   link: mailto:cengstro@sfu.ca
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/CaseyEngstrom
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/casey.engstrom
 - icon: github
   icon_pack: fab
   link: https://github.com/cengstro
@@ -36,7 +29,7 @@ superuser: true
 title: Casey Engstrom
 ---
 
-I'm a PhD candidate in [Quarmby Lab](https://www.quarmby.ca) at [Simon Fraser University](https://www.sfu.ca/mbb), did I mention I study snow algae? I am interested in environmental microbiology, remote sensing, data science, bioinformatics, and microscopy. Rock climber, bird nerd, cat dad. 
+Recent PhD graduate in [Quarmby Lab](https://www.quarmby.ca) at [Simon Fraser University](https://www.sfu.ca/mbb),  I am interested in environmental microbiology, remote sensing, data science, bioinformatics, and microscopy. Email me at cengstro AT sfu.ca
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/casey_engstrom_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
