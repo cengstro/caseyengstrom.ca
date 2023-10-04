@@ -19,6 +19,7 @@ projects: []
 
 Here is a long overdue post containing some of my photomicrographs taken throughout the course of my PhD. Snow algae are gorgeous under the microscope, with a diversity of forms, colors, and species. Over the course of my research I spent hundreds of hours at the microscope, trying to glean insights into their life history and ecology. 
 
+
 ![tardigrade](dog19.15_tardi_cropped_final.png)
 We know tardigrades are found widely in aquatic habitats but we didn't know that they also eat snow algae! Tardigrades are actually a tiny multicellular animal, unlike the algae which are unicellular. Here is a tardigrade, caught "red-handed" after grazing on some red snow algae. The red pigment is astaxanthin, the same pigment found in salmon and shrimp. It seems as though the astaxanthin is present throughout the tardigrades body, including the head?!? The red cells are approx. 20 µm diameter.
 
