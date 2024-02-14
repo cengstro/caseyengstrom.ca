@@ -1,21 +1,10 @@
 ---
+date: "2020-01-01T00:00:00Z"
+summary: "Publications"
 title: Publications
-author: Casey Engstrom
-date: '2024-02-14'
-slug: pubs
-categories: []
-tags: []
-subtitle: []
-summary: ''
-authors: []
-lastmod: '2024-02-14T11:34:46-07:00'
-featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
+lastmod: "`r Sys.Date()`"
 ---
+
 
 *PDFs available upon request.*
 
